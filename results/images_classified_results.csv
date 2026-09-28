@@ -1,0 +1,602 @@
+filename,platform,original_image_url,exact_post_url,vis or not,real or mis,opinionated,manual_topic,notes,IsFromReputableSource,channel
+photo_bluesky_47.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:krcwgyejhgkjscjcv6caxjcc/bafkreidqkmpp2mmotllmyx32rulmk5vg3qwoat2xjp22xcm5ithp6szgwy,https://bsky.app/profile/markanthon.bsky.social/post/3meohcfx5hk2c,T,R,N,Energy prices,,Y,markanthon.bsky.social
+photo_bluesky_49.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:krcwgyejhgkjscjcv6caxjcc/bafkreihrv5ixfltexndl75hk3mqnyclhrpqsyegyfcsdgmc5hnftzx2tay,https://bsky.app/profile/markanthon.bsky.social/post/3mdpyyeyzik2b,T,R,N,Energy prices,same image as before different comment,Y,markanthon.bsky.social
+photo_bluesky_80.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:krcwgyejhgkjscjcv6caxjcc/bafkreicifpussqfnhezofuh74ms4u6243scgxn2d3smldngk73pot7bg2a,https://bsky.app/profile/markanthon.bsky.social/post/3lzxxbezhq22f,T,R,N,emissions/climate,some missing legend in the image?,N,markanthon.bsky.social
+photo_bluesky_105.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:euvgghrd4aptmnfwf3yxi5go/bafkreic32clujkk5tudygqzuhwbydqihhpcbjaxgigadhuoifcjghz637a,https://bsky.app/profile/haihipper.bsky.social/post/3lzxmp462fs2m,T,M,N,energy resources,just data from a single day? maybe best vs worst,Y,haihipper.bsky.social
+photo_bluesky_138.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rmoaxx3ussirsz34z7jfkpae/bafkreibi2iimfd2vaq5pmdox6r2zttabennpy6gggwvbenih6v65w6umfq,https://bsky.app/profile/onkelsams.bsky.social/post/3lp5hgdx7fc2h,T,M,Y,climate,averaging missing? not sure if the Zeit is reputable,Y,onkelsams.bsky.social
+photo_bluesky_153.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:sxzceipcmn2oxapmpsv7krx4/bafkreidm2wco6af5hut72bt347nfccbqv5jmy2jjxmlhlpqjuoayvb7fqy,https://bsky.app/profile/pskraemer11.bsky.social/post/3lko67hfjq22z,T,M,Y,climate,comic,N,pskraemer11.bsky.social
+photo_bluesky_326.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gnvh7ltjtrrd7uuiaobsnpdx/bafkreig2wuratxrrkdpprllbravapwprhqkrxn7t2sz2qiwaykfauhf224,https://bsky.app/profile/fridaysforfuture.de/post/3lnsllyattk2j,T,R,Y,climate,not sure what this is exactly from,Y,fridaysforfuture.de
+photo_bluesky_461.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3bj4iqn7nwf5fxa33gcnaiv6/bafkreiapxbwz7ph4mflje6lhdpgzqsygjf2wbof5db3x3rcqkfm3b6ko2a,https://bsky.app/profile/attac.at/post/3lp2axvc6p224,T,R,N,military expenses,not sure,Y,attac.at
+photo_bluesky_727.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3bj4iqn7nwf5fxa33gcnaiv6/bafkreicsi7hzvtl6aio2bx6tkz23fbiek2d4o27cdajlp6dusnfqnf57ha,https://bsky.app/profile/attac.at/post/3mcx5yr37xs2z,T,R,N,politics,?,Y,attac.at
+photo_bluesky_859.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3bj4iqn7nwf5fxa33gcnaiv6/bafkreidy3nv5wn3i4umbqus4dkwgo7ncazcbzglp7dpoccb7kcs722xyzu,https://bsky.app/profile/attac.at/post/3lk4p7bhn6k2d,T,R,N,military expenses,,N,attac.at
+photo_bluesky_1081.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:brhyg3szmoguepvwjignw2o4/bafkreidxniap5bi4adx6fkrdhkmkhvbugnxxqhs42czpyazptzb4tiiip4,https://bsky.app/profile/robinschmidt.bsky.social/post/3m545wfjjlc2a,T,R,Y,climate,,Y,robinschmidt.bsky.social
+photo_bluesky_1082.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2fj67jyvd4po7r734phdnfd6/bafkreicil2bsmlzw75x5p6nx6z7rbnna2ltqey7xwjrb4jz4qkwykpuoxm,https://bsky.app/profile/klimahoelle.bsky.social/post/3lysahyuou22m,T,M,Y,climate,generated image but the data behind probably is correct,N,klimahoelle.bsky.social
+photo_bluesky_1099.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3oowqnx3nhaqiw4yoxyprl46/bafkreifsfxbl5ou7gqcrrgy3qkyvogg7s66nhjie63i3d7hhezgedx3wqq,https://bsky.app/profile/thomas-boettcher.bsky.social/post/3lxuv7yfhqc24,T,M,N,climate,drawn on image,Y,thomas-boettcher.bsky.social
+photo_bluesky_1113.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nkwlac2b7jqdmt5f2qbqwlxu/bafkreigedguicfdcqfadmx7dbefx7wv7cwnzmpqqfweuirwnfbbp4ocux4,https://bsky.app/profile/christophmontag.bsky.social/post/3lw4y32tcb22r,T,M,N,climate,,N,christophmontag.bsky.social
+photo_bluesky_1147.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreie54iuyhlsi42kmzb33phe2t2weqenge5nmn5odmrgl3jx3dajmhi,https://bsky.app/profile/klimakatastroph.bsky.social/post/3ls24x374yc2a,T,M,N,,some missing legend in the image?,N,klimakatastroph.bsky.social
+photo_bluesky_1176.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:arm26jaesomtis3n5kcdiafe/bafkreif4avmtmn5wnbmdkaco7smlxse2itlfq23b23hmtbji3fhkok557i,https://bsky.app/profile/tomjong.bsky.social/post/3lo2ca4zfdk2x,T,M,Y,climate/food,only shows food statistics not the CO2 emissions,Y,tomjong.bsky.social
+photo_bluesky_1177.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreif4pan264nocxc6vwr425mxskbtocrr5rzhe67swhh2hglpkdgtte,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lo2c5l5r7k2b,T,R,Y,climate,drawn on image,Y,klimakatastroph.bsky.social
+photo_bluesky_1184.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:r5ofoghdcbtjqiujqpvja4uh/bafkreicrkghwpldejsxf3kyoc4o3fapg7phyylptnpsjozoosmlfbiuauq,https://bsky.app/profile/zekehausfather.com/post/3lnl26k5fyw2r,T,R,N,climate,,N,zekehausfather.com
+photo_bluesky_1225.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiemcyictavcb6bdpvwnnyw4qn77voe4c5kjtvdanbs2nrgazs3ica,https://bsky.app/profile/klimakatastroph.bsky.social/post/3krgpzuhgus2t,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1227.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifq53dogfslqwys7kzxpozpdlubfz5pbxl2h7tuc73bvlzimqqpia,https://bsky.app/profile/klimakatastroph.bsky.social/post/3krgpzuhgus2t,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1249.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreihkkrkmonlohvqy4lefvs6ogz2b3wl7qbsihhhm2da2agnv7vodku,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kj4novnhxv25,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1261.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreibht5pqfauuthjq6x7su3w54kkgzyrwtn2qoxosupaobgzmej23nq,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kfzvs52rcn2f,T,M,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1271.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreig4s42zlfl32guvdosil2yqaojmsgxyorou2arpeanhjfe7mbmwba,https://bsky.app/profile/klimakatastroph.bsky.social/post/3keftwkvchd2k,T,M,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1280.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreickc6veh2jbv5eypo7nawyrccg5j5ggk336unnfy2rkts7x5yfjcu,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kd5nij56cu27,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1295.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreie3ylngd4nisuaqoah7w6xardn6ok3gx3fl4jblrttkeoziwfmpri,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kbscdeay2q2w,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1298.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreig4766e3e3yshwb3b7jccexajxnaud5tmh5ejuzw5xsnuhynx6boe,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kbscfrwkdv2k,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1308.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreihogat3bdzhf2q32pvebjszyobgdosiedf263wb2apezmpme6na64,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mssexv6ux22w,T,M,N,climate,probably opinion and misinformation as it is just a minor time window,Y,klimakatastroph.bsky.social
+photo_bluesky_1330.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreif4kqkoublmqgyonebxhql3w5zh7if5bvsaadn3xcepgjnd6uxhoi,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mqbywt7hg222,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1342.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiho27yot522fixbjczixgpitze65y3im3kersfj6zqa34nx76oee4,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mpe5plqppk2d,T,M,N,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_1356.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifsmlph3ayftfhccutdkjhlrpxeaipsaa5ardt2u24e7qofg4yb44,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mijnqr5upc2y,T,R,N,emissions/climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1357.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiab2nw3odyqltzrgcdigoh3jy2zer7mck5jd4jaancxf56gchvc4i,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mhyiczdqys2a,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1359.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreig2g5cysplezd7wdckss3ne2re5yogchznkha33vluyzq72rtco7y,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mfalk3nibc2z,T,M,N,climate,some missing legend in the image?,N,klimakatastroph.bsky.social
+photo_bluesky_1394.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreihjnpduxrgku5v5sydjk6ntuly3safikvtkwvqhaokjc4ihfibixy,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mcfrygdsu22r,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1396.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreihciqidgbhyvmnhhvxcl4jztlmjlcakicp3u47znkfpvn4jcsvajy,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mcdeo6ymb22a,T,R,N,cliamte,,N,klimakatastroph.bsky.social
+photo_bluesky_1413.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifkvldkfqr6kcxyfuu2yfgzg6jnoi2wdl7aylknaru5gtjayitihi,https://bsky.app/profile/klimakatastroph.bsky.social/post/3mb7jiz5des2a,T,R,Y,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1499.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lb7jeizjwxjcn3bvkohqxkba/bafkreigpwilbg5euki2qd2eihrghfxa7dbrabjx5yqwciewozhychcey4u,https://bsky.app/profile/climatecasino.net/post/3lzj665frwc2y,T,M,Y,climate,,Y,climatecasino.net
+photo_bluesky_1509.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreicr27hapvk5gmhkd77jnlt7rthdv5mqdvvepowb5tpnzawiyynkei,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lyxr7b777k2l,T,M,Y,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_1581.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreicuf6e4ajbsheolgbsnr774rxj3ix2btf3fe367gesizj6sh2kuwy,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lvdztyqbcs2u,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1595.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreieqryyxqie575fh2baf54uvms6aknyiiyfxfhjszdfo65wz3zgroy,https://bsky.app/profile/klimakatastroph.bsky.social/post/3luq6u2s4xs2j,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1618.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreigwlvyyvnltvkv2ghf5h3i6st3tjmaskpqvem7aql6x6ft7qwf23q,https://bsky.app/profile/klimakatastroph.bsky.social/post/3ltjykhaibs2g,T,M,Y,finance,,N,klimakatastroph.bsky.social
+photo_bluesky_1642.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifboatwp64lpp26m4xlar7fstvke6kfo754s2xklfz5wces5zkax4,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lsocjngqjc2c,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1658.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreicab7rsd3cdzckjtcipetsteku7cxu4s2s5q4ibxlgxgxtg3f4rji,https://bsky.app/profile/klimakatastroph.bsky.social/post/3ls4aajrthk2l,T,M,N,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_1666.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreih6xxjiuwuuwctuzyjriyh34omwnyebzucfdhwvicf3gp6qcx3qhq,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lrt23cda4s2i,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1687.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreicdkvwwhhw65pplay2sv2wf4cdmp3inljamm5sfgndjvgoydw4ytm,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lqiu4f4rdc2t,T,M,N,climate/finance,,Y,klimakatastroph.bsky.social
+photo_bluesky_1705.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreigzewfcfbf5tqtexpq3ejgmz6rwhgehbpub4hsyhk6wkybzxf5nyy,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lq3unbcufc2z,T,R,N,cliamte,,Y,klimakatastroph.bsky.social
+photo_bluesky_1725.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreibx2qbyvnkci34tyywisac2ic76ji5txeupycgpmmzqwwwtsgvfcu,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lphuhyw6bc2d,T,R,N,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_1758.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifbf2afdajipmrys6jsypw2hq6bntzqo6gllo75wjbupycc334xmu,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lodszrlask2i,T,M,Y,climate,daily value can be outlier,Y,klimakatastroph.bsky.social
+photo_bluesky_1767.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreif4pan264nocxc6vwr425mxskbtocrr5rzhe67swhh2hglpkdgtte,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lo2c5l5r7k2b,T,R,Y,climate,drawn on image,Y,klimakatastroph.bsky.social
+photo_bluesky_1820.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreig4egp3prqt3ziircg4nlfepdjwisn6ppzohxukcnhjqwvfczml2e,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lk3mwzzikc2o,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1865.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifwh5tzdgd46sep3kbu77biwn3txeeh677vu3orhkyfrfzvh2ty2e,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lgnwnqrtqc2v,T,R,N,cliamte,,Y,klimakatastroph.bsky.social
+photo_bluesky_1904.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreihiwmm7winuerq45lyjtk36onbcwtu7hkomgqjrhjkfezgahlslmu,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lekaspwnas2q,T,R,Y,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1918.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreidbh67xyuf2a7fivwg5dxpeubhj3ew7pnaudgcu4rxwcgmfv7szxa,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lcvhzphbr222,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1921.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreigstbz5xyovjugjgrnuz22wncwqtfan4dmqcucboqrirpgsotug74,https://bsky.app/profile/klimakatastroph.bsky.social/post/3lcfwgpnrj22o,T,R,Y,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_1931.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiemcyictavcb6bdpvwnnyw4qn77voe4c5kjtvdanbs2nrgazs3ica,https://bsky.app/profile/klimakatastroph.bsky.social/post/3krgpzuhgus2t,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1934.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreibc4ltdzuwcfnq27svy6eh63eaa3q3yfbwqxq6nomfx5rbjrsxmca,https://bsky.app/profile/klimakatastroph.bsky.social/post/3krgpzuhgus2t,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1936.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreied57labfc3szc3rq5vh2mzhhaq2h3etpfcoiuofrgoad6nk7vgci,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kr6tvpgrnw25,T,R,N,climate,some missing legend in the image?,N,klimakatastroph.bsky.social
+photo_bluesky_1964.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreibzy6rt5vazmlh7h7kuawxy2h6o74jbrul2a4xji5eatxcj4ak52y,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kny72h3pim25,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1967.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiclhain3y6qnihdlkghjwh2owxachyh4wa2qfusu4aaacntuk2uaq,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kntlyvfsmt2g,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1973.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreicpiqkhkh33u24qthb5lw22ojrg3afytwfafepu6njrpl44ahy7pi,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kngpcc72qh2y,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1981.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreihi7hsybqwj4nfje7fa3353x5gnb3xfbaecnotqslucys2mlc5anu,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kmpwjdfhxn27,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1982.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreihdbfa3fj4soaiicnb4fyrh35xijpg5amsh4auebcgy2p3tmdb5ea,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kmiqlqqfp72l,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1985.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreicichsgtzficvwcyykodo5vnvchwiztfb5tsgekcou64m6ry3beqi,https://bsky.app/profile/klimakatastroph.bsky.social/post/3km3wvxkjo32r,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_1997.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiak7hs7n7j373b4cnjbi3nsff2lt72igyapflybnww3px34pgi7dq,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kl3dj2nmmk26,T,R,N,"climate
+",,Y,klimakatastroph.bsky.social
+photo_bluesky_2023.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreic223qgwwys37pvuyxraviptbojynvkb4ojcfh5vpusqnctbrxxwu,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kj4nnhonls2q,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_2034.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreibxtphz3c24osbogwcmrvylxnchzvob6easrfobomavkf6ld4pxcq,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kidirqeomc26,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_2041.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifs5nkfw4etrf4qxfsz5ozxk6bcbxsyky4dy66rvza3n65wbuhmie,https://bsky.app/profile/klimakatastroph.bsky.social/post/3khztrti25b2t,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_2055.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreigxxmepas6kklebt3mszkhk5dvmyi65dgdhv3n5uq3d2hfmxexjum,https://bsky.app/profile/klimakatastroph.bsky.social/post/3khhcqweiyj2x,T,M,N,climate,daily value,Y,klimakatastroph.bsky.social
+photo_bluesky_2056.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreig5t2av7az7qvyq54xorhcwqba3pjfprwofhmoubxau53rfhvsxiy,https://bsky.app/profile/klimakatastroph.bsky.social/post/3khfeiac24u2i,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_2070.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreicjlfpd7tykymrjvtat4lcem7u5df5c3ivq6f4yqkgp2rc3ja26ya,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kgriarvjwc2z,T,R,N,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_2084.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreic4enp2u3zzbmeviunec4yc57kdqcd3bnpsimarstp2j3f5yfsnpa,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kgf3nbklzz2z,T,M,N,emissions/climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_2100.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreifjxnlvcruif5b2vtfs6xtjwfxtmyvyayjuo3b7o6gpzedzphxnwq,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kfsowhhkd42b,T,M,Y,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_2125.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiflb2xxdm7f6kqprg6pzydtql5qx7tqoqrhu3onnvijy57jlzjs2e,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kf3yjtcj542c,T,M,Y,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_2126.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreibf2lp5mzioqyv7xnpxxpxyawsaatmwky3q2jsroz6bxmblotu2ky,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kf3xbafbbe2i,T,M,Y,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_2133.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreieaj3auqbdgah2a2xkgxkis3ilnnsnhfchxbduooguzuefyo26ptq,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kemx3fprep2a,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_2143.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreiba3zpkp23txxfsotbo72cdlgjq2wxcfx56wvgqm7equ6ix2ji65q,https://bsky.app/profile/klimakatastroph.bsky.social/post/3keftursv532z,T,R,N,climate,,Y,klimakatastroph.bsky.social
+photo_bluesky_2224.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z5i5d5tk4ggk46pxvfqsynyu/bafkreidfszj3g7q5744ob5zyu73xxm2vkjtd7kuifudnvg3toyx7bs3we4,https://bsky.app/profile/klimakatastroph.bsky.social/post/3kbarozse2f2i,T,M,N,climate,,N,klimakatastroph.bsky.social
+photo_bluesky_2227.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:touv7uc4vhnwrfn7n7xxk6hl/bafkreibazcfbdupbpoqp46up7sgdceyl4u3jksht7dswvj64afcaw66jye,https://bsky.app/profile/rahmstorf.bsky.social/post/3kazgylsf562h,T,R,Y,climate,,Y,rahmstorf.bsky.social
+photo_bluesky_2312.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:modzww3povdypuxd3glabme7/bafkreide2y6wnpmz3sg3tbawpz5q4qa23ruvsgozryu62727e4cr2woic4,https://bsky.app/profile/ccca.ac.at/post/3lyf6cuxeos25,T,R,N,interesting topics?,,N,ccca.ac.at
+photo_bluesky_2431.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ct6mi5zdgzubbjz2lkgd3zhs/bafkreibzmk4xeyp3npwljoa35iepl7ar3jfhs5js6mhq4jhpaotkqutfru,https://bsky.app/profile/dokuunserplanet.bsky.social/post/3mu35sxlosc2m,T,R,N,climate,,Y,dokuunserplanet.bsky.social
+photo_bluesky_2434.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:krcwgyejhgkjscjcv6caxjcc/bafkreicoi42j3yj5k7drkbzqzbmhgyehzysiaofte6duka2pkpkodxo5e4,https://bsky.app/profile/markanthon.bsky.social/post/3mrws4wqr322v,T,R,Y,climate,,Y,markanthon.bsky.social
+photo_bluesky_2690.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:c7yagit5za2j6gbnrnyjw3kz/bafkreiffjajfezbnqdhkra5vponmeulmg2jkydmoghxnbrgrpkjgi6ljvi,https://bsky.app/profile/klimavoracht.bsky.social/post/3kdaf3mt4mu26,T,R,N,climate,,N,klimavoracht.bsky.social
+photo_bluesky_2714.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreign4ap3nyijkxrrairr56ckqe7nylm5jlf5graaidj6ecwgbge6ma,https://bsky.app/profile/co2klima.bsky.social/post/3mnm2kzafgc2j,T,R,N,cars,,Y,co2klima.bsky.social
+photo_bluesky_2720.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreieemsziptr4g46uksijspjsgb4jhbmshzquxfml7etd5nvosyn3p4,https://bsky.app/profile/co2klima.bsky.social/post/3mllu4ohksc2p,T,R,N,cars,,Y,co2klima.bsky.social
+photo_bluesky_2722.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreid3ogda3r6utxle3r2use7nzghycjr2sipsh6weu4plsvd73v7lee,https://bsky.app/profile/co2klima.bsky.social/post/3mj5fysnso22z,T,R,N,cars,,Y,co2klima.bsky.social
+photo_bluesky_2734.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreicmaok2dzkefv6ju3nysausikqq2velq2l6niqcopxoctouungk2a,https://bsky.app/profile/co2klima.bsky.social/post/3mgwllfyrjs2c,T,R,N,cars,,Y,co2klima.bsky.social
+photo_bluesky_2745.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rdwoizey4rgr5p67zfdiqhx2/bafkreihwjr6yagwe7imozvnllp3tnr3wv3uduhjz3zf7n5lvljqpi5kyae,https://bsky.app/profile/nonviolence.bsky.social/post/3melcixaea22l,T,M,Y,climate/food,,N,nonviolence.bsky.social
+photo_bluesky_2751.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rdwoizey4rgr5p67zfdiqhx2/bafkreiamipilq6gizojy7stpw2gjmusrewtnypn2cwsotidfl4jrarskoe,https://bsky.app/profile/nonviolence.bsky.social/post/3melcixaea22l,T,M,Y,climate,,N,nonviolence.bsky.social
+photo_bluesky_2764.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rdwoizey4rgr5p67zfdiqhx2/bafkreibdp32miro5nkn5yirk2jddobzot77jsxwsxpn7sjhsa5whusr4qu,https://bsky.app/profile/nonviolence.bsky.social/post/3msnytu2e3k2o,T,R,Y,population,,Y,nonviolence.bsky.social
+photo_bluesky_2773.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiajqnxjkrn6gqwvorlmalfnrvvemivn3fs63ziqehittqwwq7bw5u,https://bsky.app/profile/co2klima.bsky.social/post/3meg7uwc7j22o,T,R,Y,cars,,Y,co2klima.bsky.social
+photo_bluesky_2794.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiemb3dvqam4kw2gxtqusqxmf64g6j5bew6j4ttv5oh2a6rsivl26a,https://bsky.app/profile/co2klima.bsky.social/post/3mbwkvzw5g22x,T,R,N,cars,,Y,co2klima.bsky.social
+photo_bluesky_2803.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreifb4nytgunef4ltxiwyfiav4phl32eizdlauo5onc6vmgzmowa3tu,https://bsky.app/profile/co2klima.bsky.social/post/3m54idte4sk2c,T,R,N,cars,,Y,co2klima.bsky.social
+photo_bluesky_2814.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihhaoqvslylfhnondc3wrqv55xg3viutzf6mlmsl3s7zkcdradq7i,https://bsky.app/profile/co2klima.bsky.social/post/3m2rkiprphs2e,T,R,Y,cars,,Y,co2klima.bsky.social
+photo_bluesky_2816.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:uekn6lcfdqvrqhkmyv6nwanb/bafkreic6vnss6eexp35inhakvyxqn2iwzp4gusfoa3tfiqrpkhtfegoete,https://bsky.app/profile/sebeichholz.kultpower.de/post/3m2e7ta5vgc2a,T,R,N,Energy prices,,N,sebeichholz.kultpower.de
+photo_bluesky_2824.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:2fj67jyvd4po7r734phdnfd6/bafkreibn5gpq3ervv2sfa2at7wrpsca2ncai2usstxnryd53bmiunbbjvi,https://bsky.app/profile/klimahoelle.bsky.social/post/3lysahyuou22m,T,R,Y,climate,drawn on image,Y,klimahoelle.bsky.social
+photo_bluesky_2825.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreifs2rdvsfv7pemmfhea7trxpxzcdtjcrysr73iow63zog7edwdriu,https://bsky.app/profile/co2klima.bsky.social/post/3ly3arv4r4223,T,R,N,cars,,Y,co2klima.bsky.social
+photo_bluesky_2827.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreifs2rdvsfv7pemmfhea7trxpxzcdtjcrysr73iow63zog7edwdriu,https://bsky.app/profile/co2klima.bsky.social/post/3ly3arv4r4223,T,R,Y,cars,,Y,co2klima.bsky.social
+photo_bluesky_2850.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yp5ntoaky5bkuxfr6gzfdx3q/bafkreibmyrqtbk7aqyhj6qtf3spso6xuho37i37qewpo6qr33edxxis7wq,https://bsky.app/profile/markush.bsky.social/post/3l3bi4gurr22o,T,R,N,Energy prices,,N,markush.bsky.social
+photo_bluesky_2858.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiaq72xoey3wkqlewby6kzjkhk6xmsxgwxhofvv46b7hhumgwoksje,https://bsky.app/profile/co2klima.bsky.social/post/3mugw3yuplc2l,T,R,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_2859.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiaxycjqtq5r3s7ud64ajf7yr6x56umf3xrbzbsdsc5wnkl6ftlple,https://bsky.app/profile/co2klima.bsky.social/post/3mugw3yuplc2l,T,R,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_2869.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreifmtnqb52n3pcb3olzln2xnu6vvvda62r2jm7ab42hctsedbsgmii,https://bsky.app/profile/co2klima.bsky.social/post/3mttnksvr5s24,T,R,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_2871.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreifdthwx3tebcbf6i5egtjbj4np4b6mmivzolv7f4rqdtlihi6jkie,https://bsky.app/profile/co2klima.bsky.social/post/3mtqmotjwuc2l,T,R,N,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_2873.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreieydfwhh64c3exfjvgvgn2hyz4bbbl3xma3l3wgrg47rdcl6agn2q,https://bsky.app/profile/co2klima.bsky.social/post/3mtdn3ja7bc2q,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_2874.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibw5uy6juudowcczkcfnc3d6h3wkmakqemt6vxbtswh7g2bhnbk5m,https://bsky.app/profile/co2klima.bsky.social/post/3mtc677jsnk2q,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_2884.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreidgl65izguniw3i664m3fu345ydvbch7z5z676nztg4vujwo3z3qi,https://bsky.app/profile/co2klima.bsky.social/post/3msn4xppzo22d,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_2890.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihiyabei2vzmxjf3xtnaksxspbbywyfvx6ynmyjn627ox5d72nwnq,https://bsky.app/profile/co2klima.bsky.social/post/3mrxqbxany22r,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_2891.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibigpvyaiqutyw7g43srfujikfxdrl7ijw5xozy2dsc7yu2epwomu,https://bsky.app/profile/co2klima.bsky.social/post/3mrwr6fztts2n,T,R,Y,climate/politics,,N,co2klima.bsky.social
+photo_bluesky_2898.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreid2ptgx7elqbjjmk2jliv4egvarpozxeosfn32xxvjd2lo7bngug4,https://bsky.app/profile/co2klima.bsky.social/post/3mr3bn6utek24,T,R,Y,climate/politics,,Y,co2klima.bsky.social
+photo_bluesky_2916.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreieucl3ytmwyren7qezqkcjj6gta36yedf3sf573yhqbnguhg5nncm,https://bsky.app/profile/co2klima.bsky.social/post/3mpv6a7chxk2r,T,R,Y,climate/politics,,N,co2klima.bsky.social
+photo_bluesky_2934.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreie7shdm4i3zld72xdkhg46zcqqvwpmo3dqlasfxa4fraxkogemlia,https://bsky.app/profile/co2klima.bsky.social/post/3mo4dkkarhs2y,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_2947.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiavllo5pu4b6nhwv67ffvgztxpsyhqydijcsqby46lb3acth3m3ym,https://bsky.app/profile/co2klima.bsky.social/post/3mnfs4zdgwk2x,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_2950.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihof6nldqacxoemkjtvhjswc5ybfxa2k45cp5ralb7ql4ixp7j4ky,https://bsky.app/profile/co2klima.bsky.social/post/3mn4zfhxwa22f,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_2954.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibcomk5kiej5n7spstxhq3zny6is4lgxlvak5yqolbmgcdtcvnxzu,https://bsky.app/profile/co2klima.bsky.social/post/3mmnz3bey322t,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_2957.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibtutakfcaq6yiv7dkuzmauqv4lx5bayilsff4alnzsdqvno4tllu,https://bsky.app/profile/co2klima.bsky.social/post/3mmedopweus2u,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_2959.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreicoogc2kl3ahhibzn35ujs36wf23weir6wqx3ufhizswea7izg2xy,https://bsky.app/profile/co2klima.bsky.social/post/3mm4oic6m3s25,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_2963.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreicpbvdjnzra4dz4z4gjzaqln3m6t2fbccvgqz7ejmfva6bsexcxoe,https://bsky.app/profile/co2klima.bsky.social/post/3mluymealfk24,T,R,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_2966.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreigzoc6vgo3a4edo7qnersb2czrwwmh7axqq6x27qw7xulaaza2sdi,https://bsky.app/profile/co2klima.bsky.social/post/3mlokkp66jc2b,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_2970.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihpfs4l5lckdo6vf64nhn2xnvzhqxnv3sakapnqddmdn74llltlim,https://bsky.app/profile/co2klima.bsky.social/post/3mljaixak2223,T,M,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_2971.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihh6ir5gpgl4xrmbywbyyv62sk3xsz226wzg6f6msenont3nkdfji,https://bsky.app/profile/co2klima.bsky.social/post/3mlfxmx6jf22s,T,R,Y,cars,,N,co2klima.bsky.social
+photo_bluesky_2988.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreid3o43mnniyrcwur6ivskteij6lscq72epg5ug4auabwwze6eozte,https://bsky.app/profile/co2klima.bsky.social/post/3mjpmvjbj722c,T,M,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_2989.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreie4mx3fyxjtlne64xpx2efmrr2kwxxsmijjaq2lsetzstzixyfeqa,https://bsky.app/profile/co2klima.bsky.social/post/3mjov3fnpd22w,T,R,Y,climate/politics,,N,co2klima.bsky.social
+photo_bluesky_3007.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiae5vwdx6nv34rock2gabv3mn4nmzpywu3vobbpkf3mrpq7aywls4,https://bsky.app/profile/co2klima.bsky.social/post/3minpstg3bc2d,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3010.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiejp25tym5fayddpte5euqeosgr3pbgxp4oky55gfol374mxnmoke,https://bsky.app/profile/co2klima.bsky.social/post/3mig63qhy2k2k,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3013.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiaonad5wziooamgyspyx7547p6ds5n7t7zplvgbhglgtm6zmm2rle,https://bsky.app/profile/co2klima.bsky.social/post/3mica23ylnk2j,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_3020.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibbfjt3yiltpko4ta2roevzuv57sagoawwlyqixfweanjgiw7yjqa,https://bsky.app/profile/co2klima.bsky.social/post/3mhqxvcsp5k2p,T,R,Y,climate/politics,,N,co2klima.bsky.social
+photo_bluesky_3027.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibv77ccmt3s7zo4rmsmazsg7d5bqprrtcltclbi6a52ogaukx5eim,https://bsky.app/profile/co2klima.bsky.social/post/3mh4m55cka22y,T,R,Y,climate/politics,,N,co2klima.bsky.social
+photo_bluesky_3028.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreic665bunsofmyjwuuquyw3ccinb2vhq2nucvqcgorabcyqjsk63qe,https://bsky.app/profile/co2klima.bsky.social/post/3mh3q2c2xk222,T,R,Y,climate/politics,,Y,co2klima.bsky.social
+photo_bluesky_3029.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreic2pfz6vr3fuyuniexymom6745fasdkg6c3xlfc7lkfmdnja2habi,https://bsky.app/profile/co2klima.bsky.social/post/3mgxl244ckk26,T,R,Y,climate/politics,,N,co2klima.bsky.social
+photo_bluesky_3041.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihogukw45fk5rlg37chp7qe6g3f3g7lefyu7o4q23gawif47k3kju,https://bsky.app/profile/co2klima.bsky.social/post/3mgfakeylyk2t,T,R,N,climate/politics,,N,co2klima.bsky.social
+photo_bluesky_3055.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreieoysjr5opefcdl7jgko3p62xmilsvglyjp7umkyqw3bjk7aatfee,https://bsky.app/profile/co2klima.bsky.social/post/3mff3ss5xt22r,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3061.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreigsgc4y2hmfwjbg2xl4ne46bhqlovxnoubxi7hakz6f64dw57i3ui,https://bsky.app/profile/co2klima.bsky.social/post/3metncxsfx22r,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3064.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreih3siskbzdgelvi6cnimrx6nbsgmsh2qxy2gn43vac3jzqcvxla4y,https://bsky.app/profile/co2klima.bsky.social/post/3meorlqebik2w,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_3080.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreigy2xkuy44cjeulgwl3vexltipwuk7rmhry756hgz4ah5kssgzsg4,https://bsky.app/profile/co2klima.bsky.social/post/3mdxzglqlws2e,T,M,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_3082.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreih6spdhakmsbn4ppqkkx46cw7ub3ozlsck7xxuhvi67qyihz2cl7a,https://bsky.app/profile/co2klima.bsky.social/post/3mduv4k7t4k2j,T,M,N,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3085.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreif2omhmrp6lyoarli7i66musq5vavmdpxsl2m7sv6f4ekoclufhcq,https://bsky.app/profile/co2klima.bsky.social/post/3mdpjjk2ffk2q,T,R,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_3090.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreieqyfldoetavnqngoqazm6dzp7ds4d7axkivftcpz6a4guaedlyk4,https://bsky.app/profile/co2klima.bsky.social/post/3mdb6loeqis2u,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_3094.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiax7qry4h7hn4qprhidss7uxfhzrwbruhlobv6aou3ectuv6gpelq,https://bsky.app/profile/co2klima.bsky.social/post/3md5st7bk5222,T,R,Y,cars,,N,co2klima.bsky.social
+photo_bluesky_3101.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihdv5si5s5yp4ehclv4qgpuejjncgsnzrcibajve7tchborcxtupe,https://bsky.app/profile/co2klima.bsky.social/post/3mcnauqlotk2q,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_3104.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreigqefplxoekidazw3ijkkxpgovq6uacrtbfx5g35bqvpujnc3w7fq,https://bsky.app/profile/co2klima.bsky.social/post/3mcd6ghfeb22h,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3105.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreietxs4x5kvrvv35h4mxdrdpn4ofdnaszaegdwmhnu2elhfsesv5ba,https://bsky.app/profile/co2klima.bsky.social/post/3mc5apnlax227,T,R,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_3118.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreig2vsvt2hsnoc6kisebahzurjpmphhyyn5edznavdpbjcmbjwcoja,https://bsky.app/profile/co2klima.bsky.social/post/3mboruzzpc22n,T,R,N,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3121.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreia5ydr6cmzkentqyx26k6e3upr6qls5r6z62rkp7hptrodtcooxui,https://bsky.app/profile/co2klima.bsky.social/post/3mblslpz5nc27,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_3122.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreicrrf6frj5frlxkcfvyu2rafw6555zx67bwaujhl5sb2darj6szg4,https://bsky.app/profile/co2klima.bsky.social/post/3mbhdwsmris2e,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_3124.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiclola6ybsobnfvplc73udrx5uiwbztl2mwarvlnrw66fzvqx3ooi,https://bsky.app/profile/co2klima.bsky.social/post/3mbgj6tueus2i,T,R,N,climate,,Y,co2klima.bsky.social
+photo_bluesky_3129.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibjvhjzgl3nrxi7q4jd4p2srw5r3y2dp7bw7mv4r2k2dni5u3t7ci,https://bsky.app/profile/co2klima.bsky.social/post/3mb7xs4ouqs2a,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3136.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreig6yytudclvfo25mcchmfyuwpvx2kovdwep3my4xcnho2gqa4syoi,https://bsky.app/profile/co2klima.bsky.social/post/3maxob33yjs2q,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3140.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihkunpolr6srs4t44346qohvhanosegi726rmxmehy6xwuo5dkgpq,https://bsky.app/profile/co2klima.bsky.social/post/3mao7gqhwrk2m,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3144.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibm3v4al774a7mhfv6bs45ihtah4734n6aagoegemr6lfwmp5ollq,https://bsky.app/profile/co2klima.bsky.social/post/3mabwsk75ms2v,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3150.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihwpgq4n7g4tmagyzgk2kf5jocnuwc3ocolya5a2y4sxn2vekgmsq,https://bsky.app/profile/co2klima.bsky.social/post/3m7q6v6nibc2e,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_3152.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiamm3zbuhr7dzgcxp3wxt2kd7nr2pxr75nsmhy32vqtsnvmgbioy4,https://bsky.app/profile/co2klima.bsky.social/post/3m7nfvztx3k2z,T,R,Y,living/climate,,Y,co2klima.bsky.social
+photo_bluesky_3154.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihrvnfw6z2k4ulljujfh7ririoyy7kxsq6nosttz3id37dixyprfi,https://bsky.app/profile/co2klima.bsky.social/post/3m7iommbovs2i,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3160.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreig4eer6vsjcffauitgwk6n3m5l24b3n6icml67rpmblj7xnxhajpy,https://bsky.app/profile/co2klima.bsky.social/post/3m7dbbn545s24,T,R,Y,cars,,N,co2klima.bsky.social
+photo_bluesky_3161.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreie3t3luhod3qav2vrt53jglnsrhwqipclrvfwhtzmocqw57rgixbm,https://bsky.app/profile/co2klima.bsky.social/post/3m7b7vaayfs22,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3162.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreidvcom6f6m65mtgoyancau6p6bwcvq5qaxr4bphhbhd6pah6zkhye,https://bsky.app/profile/co2klima.bsky.social/post/3m7akaz3kkk2r,T,M,Y,energy resources,,N,co2klima.bsky.social
+photo_bluesky_3166.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreihgx52mqaeddxkllyzjdfsujbxv76xcxm6qfffbanzxgmlurse6cq,https://bsky.app/profile/co2klima.bsky.social/post/3m6zdqamei22y,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_3183.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiagxcq2b4neqwgatpdzhgjqor6eduiicbtshblohdnem5al6f45we,https://bsky.app/profile/co2klima.bsky.social/post/3m5dzx4q4mk25,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3193.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreigklfpuwulddthu7763tph6mida6wdcokg4v6izy5flvtxtlfxtfa,https://bsky.app/profile/co2klima.bsky.social/post/3m4zvvw46s22u,T,R,N,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3202.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreic5d7zzbptk3c65vluugxq2klyzoznhxdot66orb7g6a7anm24aky,https://bsky.app/profile/co2klima.bsky.social/post/3m4dwqgdwik2a,T,R,Y,energy resources,,N,co2klima.bsky.social
+photo_bluesky_3207.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreiejx6hjlsbadfg73zk3gkgi6zpg7tolguyn25daklr3cdhhvun7k4,https://bsky.app/profile/co2klima.bsky.social/post/3m46be3ver224,T,R,N,climate,,N,co2klima.bsky.social
+photo_bluesky_3211.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreicojmw4pasydh437ynzhflie4ia47uoxdb224s55et7zeqvvqalzy,https://bsky.app/profile/co2klima.bsky.social/post/3m3mcgdxod22r,T,R,Y,climate,,N,co2klima.bsky.social
+photo_bluesky_3212.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibwzrbciplp7esx272qzpuohlrwoeudzidjitwglscubeiosy4xnu,https://bsky.app/profile/co2klima.bsky.social/post/3m3kjijjfwc2a,T,R,Y,Energy prices,,Y,co2klima.bsky.social
+photo_bluesky_3213.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreifnl5jyvf2f7fa7jo4h5kzg52cf7uce6iuvnc53ab7wzfdz76woo4,https://bsky.app/profile/co2klima.bsky.social/post/3m3eznbodmc2i,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3216.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:z24p3mp4ncduhgbh62an65zb/bafkreibuopecdop3mgu3wqjgb4uewlwnuedco2567krcup34h6mn3whjny,https://bsky.app/profile/co2klima.bsky.social/post/3m35cqixwh225,T,R,Y,Energy prices,,N,co2klima.bsky.social
+photo_bluesky_3934.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nir3ukk777z5d5mzbiyjksut/bafkreih3iwadeg4suehqkb3d3ppjefawxzfy2egtcp65ou46lq3e36zqru,https://bsky.app/profile/goerch.eurosky.social/post/3muhg6ljgb22e,T,M,Y,culture,,N,goerch.eurosky.social
+photo_bluesky_4049.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a6m3ri2o5qefcgw2av6vlc54/bafkreieyacd7cxux43sv3e36eqwthdmnf2n6yqvjneqpph45wvpxpeq2ke,https://bsky.app/profile/hubsi2026.bsky.social/post/3msdc5hikxs2e,T,R,Y,living,,Y,hubsi2026.bsky.social
+photo_bluesky_4139.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a6m3ri2o5qefcgw2av6vlc54/bafkreia4cj5ywdvnwglxgjp26wbbidydndwsblyfbgcmfisx7hrasl72z4,https://bsky.app/profile/hubsi2026.bsky.social/post/3ms6ocjnhts23,T,R,Y,climate,,Y,hubsi2026.bsky.social
+photo_bluesky_4164.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vxh4zqod4wd4dtcuslrtkbfp/bafkreiedvk52hvkcy6kyum4fwcwyhg4wdfidmvi6hfx5yixpzmyrxl7kea,https://bsky.app/profile/astrolenni.bsky.social/post/3msdbp6i5jk2y,T,R,N,climate,,N,astrolenni.bsky.social
+photo_bluesky_4285.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a6m3ri2o5qefcgw2av6vlc54/bafkreihjokj2wgkobmaa2yt3g2jnohnzbglpwypfbuhrl7fx7fzx7pf4fm,https://bsky.app/profile/hubsi2026.bsky.social/post/3mri34ohb3c2e,T,R,Y,politics,,Y,hubsi2026.bsky.social
+photo_bluesky_4335.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:e3pen4wddee6lrbwniwwkwco/bafkreieqehf5b4cwni62uj7q5tnme6fxgw2zjy5uyu3jukqb6j7mxcdhom,https://bsky.app/profile/evcurvefuturist.com/post/3mr246rurgs2j,T,R,Y,climate,,Y,evcurvefuturist.com
+photo_bluesky_4592.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lqjwd4rjzbq7ohuqqsykl4pt/bafkreigiz326m5rno2ybbyy6tq2hfhsyq3i2wjvwghciaez4bkeeejyp3u,https://bsky.app/profile/01715501189.bsky.social/post/3mmdxj6mp5k2r,T,R,Y,politics,,Y,01715501189.bsky.social
+photo_bluesky_4668.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jiubyw4ufshngngshryfd5mq/bafkreigdjlw5shwrodembyjdljxgsssqb2d6sqbic67bj3xm3mw5eq4emi,https://bsky.app/profile/niemandnicht.bsky.social/post/3mjtx7f5fms2m,T,R,N,population,,Y,niemandnicht.bsky.social
+photo_bluesky_4670.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gh62i2jhdvperqirczrjnuc5/bafkreia3uzvutrk5rwnc2nsmpfjmptcgnu3r5pm3577tobyoo5m6is3sim,https://bsky.app/profile/omega2k.de/post/3mjtaosjmac2l,T,R,Y,immigration/crime,,Y,omega2k.de
+photo_bluesky_4862.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rdwoizey4rgr5p67zfdiqhx2/bafkreidxadust6aps3zny2ayt55ls4w67cvjxxooeispz5r56web4nhpxm,https://bsky.app/profile/nonviolence.bsky.social/post/3mfebsnei4s2u,T,R,Y,politics/climate,,Y,nonviolence.bsky.social
+photo_bluesky_4918.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nesc4u45gzzo75f7dptatk3g/bafkreih6awxljk6q46kcnhhzfjzyhgn247vh32jd3sewpby6l65jmr5b2u,https://bsky.app/profile/wrtl.eurosky.social/post/3mebeuo3wns2c,T,R,Y,politics,,Y,wrtl.eurosky.social
+photo_bluesky_5064.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:onqxflbsow57dte4vbjcpo7k/bafkreid2qh676jsvlwvdtecuvo45xwnm5bakcptpauydbkpr7zaydlimvu,https://bsky.app/profile/qattoon.de/post/3ma4lzcuolc2d,T,M,Y,climate,,Y,qattoon.de
+photo_bluesky_5072.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:efysnnwvqoywn2crsjfm5625/bafkreidsa74jlatzjqxhuw3one4w2bv7fwcukdf426uxny6b3yuwgormui,https://bsky.app/profile/chickenlady.bsky.social/post/3ma3utmd6sc2f,T,R,Y,politics,,Y,chickenlady.bsky.social
+photo_bluesky_5375.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:dirvbxqk4zidnriy6qhs5zo5/bafkreieaonbznujsmtc767eor3molezmwzt7ccr2ugikvwbzmjh4olj4uu,https://bsky.app/profile/kaliyo.bsky.social/post/3lvsxyiyfb22v,T,R,Y,politics,,Y,kaliyo.bsky.social
+photo_bluesky_5403.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:hbaucnxqhkvttu7iu23xu7v3/bafkreidhceefisoibfcrnuqw6tvg2if2xczrgfccneo67fdz6kczzlfjsm,https://bsky.app/profile/gustavmeyrink.bsky.social/post/3lunr2ahgg22g,T,R,N,climate,,Y,gustavmeyrink.bsky.social
+photo_bluesky_5461.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:nzjygelp423qb44j2ejhrpcc/bafkreiac57lclrg7pge7c3mhtp7dnumb7mvykrjdyntmgoyepff7jefksy,https://bsky.app/profile/oneiroi22.bsky.social/post/3ltkshfz5ek2r,T,R,N,climate/politics,,Y,oneiroi22.bsky.social
+photo_bluesky_5600.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fr6ewhvkwkbfxidzvrmdav7e/bafkreifacg6a26dnbgrshxwmlbljczab43syno4d36bjkhj2ud67oj27gm,https://bsky.app/profile/armingrau.bsky.social/post/3msfrh34htv2v,T,R,N,immigration,,Y,armingrau.bsky.social
+photo_bluesky_5603.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:duec53heo3to34kpkbnwway4/bafkreibpzwpnfsyi33ppycgxuhnrb7zdvcqe2dwnfu26ke65fnwqn7yvde,https://bsky.app/profile/peterjelinek.bsky.social/post/3msd2iw6eyk2z,T,R,N,climate,,N,peterjelinek.bsky.social
+photo_bluesky_5754.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:c3c4qjmytmlpb45dsnpg2nqk/bafkreibsu4uuki5uupdbzpqyidp3obk5sp5yo6hh66rvlefsrz4omv6tvu,https://bsky.app/profile/thankyouforthefish.bsky.social/post/3ml73fdofys2d,T,R,Y,climate,,Y,thankyouforthefish.bsky.social
+photo_bluesky_5775.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:gjokf3kwvsn7apyyslneqctb/bafkreicwhseiknwdz2xr37yz74stp3ywx27zjluuxn4472ypmskb3sr7xm,https://bsky.app/profile/christianstoecker.de/post/3mjtlp2d36a23,T,R,Y,climate/politics,,N,christianstoecker.de
+photo_bluesky_5836.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lp2yckcwmu2hpbrpysmyscjf/bafkreic3tavci7ewas4zwowbcfx74hasimevay3ktwhvgqqnehdtdwc2hy,https://bsky.app/profile/umweltbundesamt.bsky.social/post/3mgzgbm4qek2s,T,R,N,climate,,Y,umweltbundesamt.bsky.social
+photo_bluesky_5837.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:lp2yckcwmu2hpbrpysmyscjf/bafkreidcc4qzlk5kwzr7mnl3ytgjz75qonemfuxiw4dsqin6wf365rmsay,https://bsky.app/profile/umweltbundesamt.bsky.social/post/3mgzgbm4qek2s,T,R,N,climate,,Y,umweltbundesamt.bsky.social
+photo_bluesky_5866.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:vb4q6gkecpq2rx2d6rrpbqio/bafkreiacdza24ypvottwnyd42s45lff7tbilsgrm3lrpfq6augqno2wwgi,https://bsky.app/profile/parentsforfuture.de/post/3mfgups7e3k2j,T,R,N,climate,,N,parentsforfuture.de
+photo_bluesky_5867.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ol3j42oowru3x6r6u3qqgnfr/bafkreict6d4ko7kl2ikey2uvmno4hhktntdfxfx32b2qhi4jmnj2jf6pzy,https://bsky.app/profile/andreaskemper.bsky.social/post/3mfbycltnos2n,T,R,Y,politics,,Y,andreaskemper.bsky.social
+photo_bluesky_5982.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:j6uxiesfwdr673q243ufnngu/bafkreiekvxaalu5obiotyxupwo6lqiie7mmdri2nlx66pdwujysz62xgre,https://bsky.app/profile/omagrhalle.bsky.social/post/3m3epatvas22p,T,R,Y,mobility/climate,,Y,omagrhalle.bsky.social
+photo_bluesky_6010.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:caoilfvxiz7muekci2df4xpd/bafkreibq4hs5d4f4v4lgxwlaub74nnx2kx4u7cjmf5vmkdoixx6y3jvvoa,https://bsky.app/profile/palle.eurosky.social/post/3lzdo35mf6c24,T,R,N,finance,,N,palle.eurosky.social
+photo_bluesky_6047.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4kjl3i2vhf6jew3c664o6h4c/bafkreia2t44tnpcqu6tcml3wsugsjw24b3ntnmplpecdlg77bh5zqe2ufe,https://bsky.app/profile/ruthmoschner.bsky.social/post/3lwberuayi22c,T,R,Y,politics,,N,ruthmoschner.bsky.social
+photo_bluesky_6056.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:eronyhtcn3eycaxa4k2i4xtf/bafkreiaczedrr3hey2yoegp5rnluqhkt7ud6wpphcrrlykijseyiars3ty,https://bsky.app/profile/sixtus.net/post/3lvs5xmwyus2y,T,R,N,politics,,N,sixtus.net
+photo_bluesky_6159.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:3nywfrt3i2mg4d5s2e2sohug/bafkreic7nhwrlzm4n3ujhhtzovulzy66wuptmzjnkdquwefdmzqvicojcm,https://bsky.app/profile/herr-natuerlich.bsky.social/post/3mujmp7lcp22t,T,R,Y,cars,,Y,herr-natuerlich.bsky.social
+photo_bluesky_6222.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:rdwoizey4rgr5p67zfdiqhx2/bafkreihkntsfpzhtqlhysxc4bcpqjskjuli2fdqtzre4jtemiwwulizasy,https://bsky.app/profile/nonviolence.bsky.social/post/3muikus34zs22,T,R,Y,energy resources,,Y,nonviolence.bsky.social
+photo_bluesky_6258.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:o7crvue6sxcuqjhe5ogubmyg/bafkreibmeykodropopvxoh5wcoc2rvhynl7wu3zdfx5avcmqjdvlkeqduq,https://bsky.app/profile/pontiuspilatus.bsky.social/post/3mu5ufrs5a222,T,R,N,energy resources,,Y,pontiuspilatus.bsky.social
+photo_bluesky_6483.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a6m3ri2o5qefcgw2av6vlc54/bafkreieyacd7cxux43sv3e36eqwthdmnf2n6yqvjneqpph45wvpxpeq2ke,https://bsky.app/profile/hubsi2026.bsky.social/post/3msdc5hikxs2e,T,R,Y,climate,,Y,hubsi2026.bsky.social
+photo_bluesky_6727.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:a6m3ri2o5qefcgw2av6vlc54/bafkreiayknwisprdsdmmnhgtijsnquw6oyd5zm2omh4khh7vussbmrmnue,https://bsky.app/profile/hubsi2026.bsky.social/post/3mqw54vzf422p,T,R,Y,energy resources,,Y,hubsi2026.bsky.social
+photo_bluesky_6941.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:thwynjjqgxffog35vyk55mao/bafkreigfdcqqjcsioxyag5w7vnpkpam6cmmztpjwingbxjumllxd4fl7s4,https://bsky.app/profile/zhmagoo.bsky.social/post/3mq54chzlh227,T,M,Y,Energy prices,,N,zhmagoo.bsky.social
+photo_bluesky_6995.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:tsqbmbakmlkyafyddnvaihp7/bafkreigslnfzqu5f6gzol563o5clijzbwupjfqesf7c7uutyln3xaxn54a,https://bsky.app/profile/irreverentginger.bsky.social/post/3mplb2y467c2h,T,R,Y,politics,,N,irreverentginger.bsky.social
+photo_bluesky_7167.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:jgmwjhyvoxxnoq3d3u7t55xf/bafkreid5fqgyya4rjde33d4yspx2lobcpzoamdztubyeuyasvihsrf44ou,https://bsky.app/profile/anmako96.bsky.social/post/3mpa2q5zngk2z,T,R,N,climate,,N,anmako96.bsky.social
+photo_bluesky_7171.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:4jjvzdsg5lge2e3hm4s6zgqi/bafkreiddymvxqiidiuvl6nn5uqc4vexkvbi5jesf75fdjyfknlpl5xdufq,https://bsky.app/profile/csamimi.bsky.social/post/3mpax7zcw7c2l,T,M,Y,climate,,N,csamimi.bsky.social
+photo_bluesky_7203.jpg,bluesky,https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:spdc4t74dv5dqdnxu5gwogfn/bafkreigig6courmnfhifx6xavgd5kjt2zqvtoim64px7ymeyphqtinqlbe,https://bsky.app/profile/cologne.eurosky.social/post/3mozu3o67wc2p,T,R,N,energy resources,,Y,cologne.eurosky.social
+photo_reddit_2718.jpg,reddit,https://i.redd.it/igzz3tywqgmh1.png,https://www.reddit.com/r/switzerland/comments/1w2aooa/,T,R,N,finance,,N,r/switzerland
+photo_reddit_2778.jpg,reddit,https://i.redd.it/1kub7zazqrlh1.jpeg,https://www.reddit.com/r/switzerland/comments/1vz6p06/,T,R,N,population,,N,r/switzerland
+photo_reddit_2870.jpg,reddit,https://i.redd.it/0l0liyd3zrjh1.jpeg,https://www.reddit.com/r/switzerland/comments/1vq3n1x/,T,R,Y,living,,N,r/switzerland
+photo_reddit_2877.jpg,reddit,https://i.redd.it/4da8vj33ojjh1.jpeg,https://www.reddit.com/r/switzerland/comments/1vp3ilt/,T,R,N,wealth,,N,r/switzerland
+photo_reddit_2977.jpg,reddit,https://i.redd.it/78tkl8n50qhh1.png,https://www.reddit.com/r/switzerland/comments/1vgyzh2/,T,R,N,green in cities,,N,r/switzerland
+photo_reddit_3256.jpg,reddit,https://i.redd.it/nivnh5rlzqhh1.png,https://www.reddit.com/r/umwelt_de/comments/1vht9br/,T,M,Y,climate,,N,r/umwelt_de
+photo_reddit_3315.jpg,reddit,https://i.redd.it/fczjy8hwxseh1.jpeg,https://www.reddit.com/r/umwelt_de/comments/1v4eubp/,T,M,Y,energy,,N,r/umwelt_de
+photo_reddit_3741.jpg,reddit,https://i.redd.it/b6x9etqrwm5d1.jpeg,https://www.reddit.com/r/umwelt_de/comments/1dda5aa/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_3830.jpg,reddit,https://a.thumbs.redditmedia.com/JqhXQcn_LR2Bw90gDkH9c0Qfc-DDLT0zHxmM2ViqF48.jpg,https://www.reddit.com/r/umwelt_de/comments/199uz9h/,T,R,Y,climate,,Y,r/umwelt_de
+photo_reddit_4114.jpg,reddit,https://b.thumbs.redditmedia.com/sjS5YP_U6RqaVSQmBGig_XNa06N04jtPLSXGQ55KC_c.jpg,https://www.reddit.com/r/umwelt_de/comments/14fz9b5/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_4948.jpg,reddit,https://i.redd.it/m2f1meqefwc81.png,https://www.reddit.com/r/umwelt_de/comments/s9840p/,T,R,N,climate,,Y,r/umwelt_de
+photo_reddit_5076.jpg,reddit,https://i.redd.it/x08h13aoann71.jpg,https://www.reddit.com/r/umwelt_de/comments/ponj3e/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_5172.jpg,reddit,https://i.redd.it/f16dkuyv37c71.jpg,https://www.reddit.com/r/umwelt_de/comments/onhg0g/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_5184.jpg,reddit,https://i.redd.it/u18noyg7sbb71.png,https://www.reddit.com/r/umwelt_de/comments/oknhpl/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_5273.jpg,reddit,https://i.redd.it/2kcjk7df2bx61.jpg,https://www.reddit.com/r/umwelt_de/comments/n5g6bk/,T,M,Y,climate/food,,Y,r/umwelt_de
+photo_reddit_5294.jpg,reddit,https://i.redd.it/51djpviv9av61.jpg,https://www.reddit.com/r/umwelt_de/comments/my4bel/,T,R,Y,living,,Y,r/umwelt_de
+photo_reddit_5368.jpg,reddit,https://i.redd.it/clf53it8q8h61.jpg,https://www.reddit.com/r/umwelt_de/comments/lizvy6/,T,R,Y,climate,,Y,r/umwelt_de
+photo_reddit_5388.jpg,reddit,https://i.redd.it/y4lbbw2rvob61.png,https://www.reddit.com/r/umwelt_de/comments/kyi88y/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_5430.jpg,reddit,https://i.redd.it/hfzu8b8v8m261.png,https://www.reddit.com/r/umwelt_de/comments/k4qcup/,T,R,N,marine life,,Y,r/umwelt_de
+photo_reddit_5431.jpg,reddit,https://i.redd.it/l56v0j2f6m261.jpg,https://www.reddit.com/r/umwelt_de/comments/k4q20t/,T,M,Y,climate,missing units?,Y,r/umwelt_de
+photo_reddit_5468.jpg,reddit,https://i.redd.it/ih444g5f00u51.png,https://www.reddit.com/r/umwelt_de/comments/jdwtg9/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_5506.jpg,reddit,https://i.redd.it/muj3jw5213o51.png,https://www.reddit.com/r/umwelt_de/comments/ivq6jy/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_5560.jpg,reddit,https://i.redd.it/efgiz53fi4i51.jpg,https://www.reddit.com/r/umwelt_de/comments/id6v8k/,T,M,Y,climate,is it now katapult or own research?,Y,r/umwelt_de
+photo_reddit_5583.jpg,reddit,https://i.redd.it/9fovqv13jxf51.png,https://www.reddit.com/r/umwelt_de/comments/i6ff0c/,T,R,N,climate,,Y,r/umwelt_de
+photo_reddit_5602.jpg,reddit,https://i.redd.it/cmd5qy9r2mb51.png,https://www.reddit.com/r/umwelt_de/comments/htfzzh/,T,R,N,climate,,Y,r/umwelt_de
+photo_reddit_5630.jpg,reddit,https://i.redd.it/59k6cuiarg651.jpg,https://www.reddit.com/r/umwelt_de/comments/hdsj9k/,T,M,Y,climate/food,,Y,r/umwelt_de
+photo_reddit_5666.jpg,reddit,https://i.redd.it/uw6sxky1hrz41.png,https://www.reddit.com/r/umwelt_de/comments/gmtqun/,T,R,N,mobility/climate,,Y,r/umwelt_de
+photo_reddit_5674.jpg,reddit,https://i.redd.it/okmxq9wqpjv41.png,https://www.reddit.com/r/umwelt_de/comments/g9lo14/,T,R,N,climate,,Y,r/umwelt_de
+photo_reddit_5771.jpg,reddit,https://i.redd.it/qzsj1g2k0wd41.png,https://www.reddit.com/r/umwelt_de/comments/ew2z5g/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_5775.jpg,reddit,https://i.redd.it/7pps4n4cnxc41.png,https://www.reddit.com/r/umwelt_de/comments/etr87e/,T,M,Y,climate/food,,Y,r/umwelt_de
+photo_reddit_5810.jpg,reddit,https://i.redd.it/yx4y241vdb941.png,https://www.reddit.com/r/umwelt_de/comments/el8n1i/,T,M,Y,climate,how large are the forests compared to the busch in australia,Y,r/umwelt_de
+photo_reddit_5914.jpg,reddit,https://i.redd.it/4bs6scjpu1z31.png,https://www.reddit.com/r/umwelt_de/comments/dx6udu/,T,M,Y,mobility/climate,,Y,r/umwelt_de
+photo_reddit_5943.jpg,reddit,https://i.redd.it/3edp5vik3wv31.png,https://www.reddit.com/r/umwelt_de/comments/dpolmp/,T,R,N,climate/wildlife,,Y,r/umwelt_de
+photo_reddit_5970.jpg,reddit,https://i.redd.it/vuhi4w74h2t31.png,https://www.reddit.com/r/umwelt_de/comments/dj3oom/,T,M,Y,living,,Y,r/umwelt_de
+photo_reddit_5991.jpg,reddit,https://i.redd.it/qupeaz9bmxq31.png,https://www.reddit.com/r/umwelt_de/comments/de414r/,T,R,N,mobility/climate,,Y,r/umwelt_de
+photo_reddit_6038.jpg,reddit,https://i.redd.it/boxm7pgtyrl31.png,https://www.reddit.com/r/umwelt_de/comments/d284g8/,T,M,Y,climate,,Y,r/umwelt_de
+photo_reddit_6108.jpg,reddit,https://i.redd.it/7o3cya1x91a31.png,https://www.reddit.com/r/umwelt_de/comments/ccn5aq/,T,R,Y,living,,Y,r/umwelt_de
+photo_reddit_6300.jpg,reddit,https://i.redd.it/ci1fkiqt2fgh1.png,https://www.reddit.com/r/deutschland/comments/1vb3by5/,T,R,N,green in cities,,N,r/deutschland
+photo_reddit_6620.jpg,reddit,https://i.redd.it/lmvqxkv88phg1.jpeg,https://www.reddit.com/r/deutschland/comments/1qwp86s/,T,R,N,living,,N,r/deutschland
+photo_reddit_6971.jpg,reddit,https://i.redd.it/wzpyxe2h52pf1.jpeg,https://www.reddit.com/r/deutschland/comments/1nghtxf/,T,R,Y,living,,Y,r/deutschland
+photo_reddit_7161.jpg,reddit,https://i.redd.it/uh7lyqbhqu9f1.jpeg,https://www.reddit.com/r/deutschland/comments/1lncg4k/,T,M,Y,living,,Y,r/deutschland
+photo_reddit_7477.jpg,reddit,https://i.redd.it/3ijx9r0f6wke1.png,https://www.reddit.com/r/deutschland/comments/1iwaazp/,T,R,N,politics,,N,r/deutschland
+photo_reddit_8304.jpg,reddit,https://i.redd.it/1n4kvvb18llh1.png,https://www.reddit.com/r/wohnen/comments/1vyd3e3/,T,R,N,living,,N,r/wohnen
+photo_reddit_10726.jpg,reddit,https://i.redd.it/9us4wcnbyvlg1.png,https://www.reddit.com/r/de/comments/1rfiu5o/,T,R,N,politics,,Y,r/de
+photo_reddit_11826.jpg,reddit,https://i.redd.it/98ppycxs2mjh1.png,https://www.reddit.com/r/austria/comments/1vpfjbn/,T,R,N,climate,,Y,r/austria
+photo_reddit_12018.jpg,reddit,https://i.redd.it/vizo5ih28shh1.jpeg,https://www.reddit.com/r/austria/comments/1vh9a0z/,T,R,N,climate,,Y,r/austria
+photo_reddit_12029.jpg,reddit,https://i.redd.it/znrsm3p6ephh1.png,https://www.reddit.com/r/austria/comments/1vgww3p/,T,R,N,energy,,N,r/austria
+photo_reddit_12130.jpg,reddit,https://i.redd.it/n00j58ujzxgh1.png,https://www.reddit.com/r/austria/comments/1vdezsn/,T,R,Y,climate,,N,r/austria
+photo_reddit_12528.jpg,reddit,https://i.redd.it/9ow3c9pd3ech1.jpg,https://www.reddit.com/r/austria/comments/1usl80h/,T,R,N,politics,,Y,r/austria
+photo_reddit_12530.jpg,reddit,https://i.redd.it/9ow3c9pd3ech1.jpg,https://www.reddit.com/r/austria/comments/1usl80h/,T,R,N,politics,,N,r/austria
+photo_reddit_13037.jpg,reddit,https://i.redd.it/as62n0cpf29h1.png,https://www.reddit.com/r/austria/comments/1udncpv/,T,M,Y,Energy prices,,N,r/austria
+photo_reddit_13185.jpg,reddit,https://i.redd.it/rmruk21d2v7h1.png,https://www.reddit.com/r/austria/comments/1u8dbkg/,T,R,Y,politics,,N,r/austria
+photo_reddit_13554.jpg,reddit,https://i.redd.it/t5grp19jq14h1.png,https://www.reddit.com/r/austria/comments/1tqwl7t/,T,R,N,living,,Y,r/austria
+photo_reddit_13564.jpg,reddit,https://i.redd.it/1rh2qzsw1y3h1.jpg,https://www.reddit.com/r/austria/comments/1tqgnqc/,T,R,N,politics,,Y,r/austria
+photo_reddit_13572.jpg,reddit,https://i.redd.it/6rqawtujlv3h1.jpeg,https://www.reddit.com/r/austria/comments/1tq2t7a/,T,R,N,finance,,Y,r/austria
+photo_reddit_13626.jpg,reddit,https://i.redd.it/msalbj80e83h1.png,https://www.reddit.com/r/austria/comments/1tn15te/,T,R,Y,mobility,,Y,r/austria
+photo_reddit_13641.jpg,reddit,https://i.redd.it/zke5cmarxs2h1.png,https://www.reddit.com/r/austria/comments/1tlg0n0/,T,M,Y,living,,N,r/austria
+photo_reddit_13653.jpg,reddit,https://i.redd.it/9jtamli0lo2h1.png,https://www.reddit.com/r/austria/comments/1tkh9rv/,T,M,Y,finance,,Y,r/austria
+photo_reddit_13847.jpg,reddit,https://i.redd.it/f0tbyevnaw0h1.jpeg,https://www.reddit.com/r/austria/comments/1tby3py/,T,R,N,living,,N,r/austria
+photo_reddit_13864.jpg,reddit,https://i.redd.it/y8dell5lrq0h1.png,https://www.reddit.com/r/austria/comments/1tb8kkq/,T,R,N,cars,,Y,r/austria
+photo_reddit_13944.jpg,reddit,https://i.redd.it/6xowxwmjd90h1.jpeg,https://www.reddit.com/r/austria/comments/1t8znni/,T,R,Y,politics,,N,r/austria
+photo_reddit_13996.jpg,reddit,https://i.redd.it/hb204z9enjzg1.jpeg,https://www.reddit.com/r/austria/comments/1t5hy7j/,T,R,N,living,,Y,r/austria
+photo_reddit_14028.jpg,reddit,https://i.redd.it/mep75ltyq5zg1.jpeg,https://www.reddit.com/r/austria/comments/1t4bv2z/,T,M,Y,living,,N,r/austria
+photo_reddit_14030.jpg,reddit,https://i.redd.it/fupdz6y1bazg1.jpeg,https://www.reddit.com/r/austria/comments/1t49x9m/,T,R,Y,politics,,Y,r/austria
+photo_reddit_14102.jpg,reddit,https://i.redd.it/zd9y2t7wndyg1.png,https://www.reddit.com/r/austria/comments/1t0623r/,T,M,Y,living,,Y,r/austria
+photo_reddit_14129.jpg,reddit,https://i.redd.it/i0mz5luar4yg1.jpg,https://www.reddit.com/r/austria/comments/1syywwq/,T,M,Y,finance,,N,r/austria
+photo_reddit_14214.jpg,reddit,https://i.redd.it/ohzc7yyowbxg1.jpeg,https://www.reddit.com/r/austria/comments/1svanhd/,T,M,Y,energy resources,,Y,r/austria
+photo_reddit_14304.jpg,reddit,https://i.redd.it/loek3p8oddwg1.jpeg,https://www.reddit.com/r/austria/comments/1sqtv28/,T,R,Y,living,,N,r/austria
+photo_reddit_14400.jpg,reddit,https://i.redd.it/lekqn2d45ivg1.png,https://www.reddit.com/r/austria/comments/1smw8n5/,T,R,N,living,,Y,r/austria
+photo_reddit_14405.jpg,reddit,https://i.redd.it/lekqn2d45ivg1.png,https://www.reddit.com/r/austria/comments/1smw8n5/,T,R,Y,living,,Y,r/austria
+photo_reddit_14481.jpg,reddit,https://i.redd.it/d7q2nwq9kcug1.jpeg,https://www.reddit.com/r/austria/comments/1sjexjd/,T,R,Y,living,,N,r/austria
+photo_reddit_14506.jpg,reddit,https://i.redd.it/qv2k98v0lbug1.png,https://www.reddit.com/r/austria/comments/1shg71h/,T,R,N,cars,drawn on image,Y,r/austria
+photo_reddit_14515.jpg,reddit,https://i.redd.it/h7h5bxu0k5ug1.png,https://www.reddit.com/r/austria/comments/1sgnehg/,T,R,N,cars,,Y,r/austria
+photo_reddit_14537.jpg,reddit,https://i.redd.it/71jhaseygxtg1.png,https://www.reddit.com/r/austria/comments/1sfn744/,T,R,N,Energy prices,,Y,r/austria
+photo_reddit_14556.jpg,reddit,https://i.redd.it/objbt4ax7ktg1.png,https://www.reddit.com/r/austria/comments/1sdxsig/,T,R,N,Energy prices,,Y,r/austria
+photo_reddit_14674.jpg,reddit,https://i.redd.it/wu18ypy8zisg1.png,https://www.reddit.com/r/austria/comments/1s9cwf8/,T,R,Y,education,,Y,r/austria
+photo_reddit_14675.jpg,reddit,https://i.redd.it/wu18ypy8zisg1.png,https://www.reddit.com/r/austria/comments/1s9cwf8/,T,R,Y,education,,Y,r/austria
+photo_reddit_14685.jpg,reddit,https://i.redd.it/el62c9xdbesg1.jpeg,https://www.reddit.com/r/austria/comments/1s8xawy/,T,R,N,living/climate,,Y,r/austria
+photo_reddit_14700.jpg,reddit,https://i.redd.it/47ltyigjs8sg1.png,https://www.reddit.com/r/austria/comments/1s82oez/,T,M,Y,living,,N,r/austria
+photo_reddit_14863.jpg,reddit,https://i.redd.it/i9m30ka0xrqg1.png,https://www.reddit.com/r/austria/comments/1s1dbwp/,T,R,N,climate,,Y,r/austria
+photo_reddit_14879.jpg,reddit,https://i.redd.it/0mmqggmjwkqg1.png,https://www.reddit.com/r/austria/comments/1s0itxi/,T,R,N,politics,,Y,r/austria
+photo_reddit_14883.jpg,reddit,https://i.redd.it/k3n3ee82i6qg1.jpeg,https://www.reddit.com/r/austria/comments/1rzvmik/,T,R,Y,recycling,,Y,r/austria
+photo_reddit_14923.jpg,reddit,https://external-preview.redd.it/h4rZC-0ZBjpYWZieU2t3P6mV4PIBo62Fy4CBFdK2UAU.jpeg?width=140&height=105&auto=webp&s=974deba2c55b77f17f127301a583bd768c963f64,https://www.reddit.com/r/austria/comments/1rxjgd2/,T,R,N,living,,Y,r/austria
+photo_reddit_14941.jpg,reddit,https://i.redd.it/y31e390ztrpg1.png,https://www.reddit.com/r/austria/comments/1rwz0wr/,T,R,N,population,,Y,r/austria
+photo_reddit_14945.jpg,reddit,https://i.redd.it/916ol36odrpg1.png,https://www.reddit.com/r/austria/comments/1rwxoxr/,T,M,Y,living,data from 2021 but prices from 2025???,N,r/austria
+photo_reddit_14947.jpg,reddit,https://i.redd.it/916ol36odrpg1.png,https://www.reddit.com/r/austria/comments/1rwxoxr/,T,M,Y,living,data from 2021 but prices from 2025???,N,r/austria
+photo_reddit_14948.jpg,reddit,https://i.redd.it/916ol36odrpg1.png,https://www.reddit.com/r/austria/comments/1rwxoxr/,T,M,Y,living,data from 2021 but prices from 2025???,N,r/austria
+photo_reddit_15061.jpg,reddit,https://i.redd.it/6rt5zs0gukog1.png,https://www.reddit.com/r/austria/comments/1rrlfru/,T,M,Y,living,,Y,r/austria
+photo_reddit_15068.jpg,reddit,https://i.redd.it/iiyi7nijggog1.jpeg,https://www.reddit.com/r/austria/comments/1rr65sd/,T,R,N,politics,,Y,r/austria
+photo_reddit_15225.jpg,reddit,https://i.redd.it/wqo7tsdw7omg1.jpg,https://www.reddit.com/r/austria/comments/1rj02sv/,T,M,Y,politics,,N,r/austria
+photo_reddit_15246.jpg,reddit,https://i.redd.it/93ourule7gmg1.jpg,https://www.reddit.com/r/austria/comments/1rhzega/,T,R,N,living,,Y,r/austria
+photo_reddit_15263.jpg,reddit,https://i.redd.it/k44g4yl9e7mg1.jpeg,https://www.reddit.com/r/austria/comments/1rgys5n/,T,R,N,wealth,,Y,r/austria
+photo_reddit_15266.jpg,reddit,https://i.redd.it/16v3rkhyk3mg1.jpeg,https://www.reddit.com/r/austria/comments/1rgki9c/,T,R,N,living,,N,r/austria
+photo_reddit_15287.jpg,reddit,https://i.redd.it/kgivjcpt2wlg1.png,https://www.reddit.com/r/austria/comments/1rfjl4g/,T,R,N,cars,,Y,r/austria
+photo_reddit_15325.jpg,reddit,https://i.redd.it/9joc190tvolg1.jpg,https://www.reddit.com/r/austria/comments/1remko4/,T,R,N,population,,Y,r/austria
+photo_reddit_15330.jpg,reddit,https://i.redd.it/9joc190tvolg1.jpg,https://www.reddit.com/r/austria/comments/1remko4/,T,R,N,population,,Y,r/austria
+photo_reddit_15361.jpg,reddit,https://i.redd.it/6rceofas92lg1.jpeg,https://www.reddit.com/r/austria/comments/1rdd0r0/,T,R,Y,geographics,,Y,r/austria
+photo_reddit_15363.jpg,reddit,https://i.redd.it/8pbhczs9pelg1.png,https://www.reddit.com/r/austria/comments/1rdb4yz/,T,M,Y,population,,Y,r/austria
+photo_reddit_15395.jpg,reddit,https://i.redd.it/vd99i3sq77lg1.png,https://www.reddit.com/r/austria/comments/1rcb8bv/,T,R,Y,politics,,N,r/austria
+photo_reddit_15416.jpg,reddit,https://i.redd.it/yic3h6bz3pkg1.png,https://www.reddit.com/r/austria/comments/1rapumk/,T,R,Y,living,,N,r/austria
+photo_reddit_15452.jpg,reddit,https://i.redd.it/5jfaz7fnrhkg1.png,https://www.reddit.com/r/austria/comments/1r96mwp/,T,R,N,mobility,,N,r/austria
+photo_reddit_15461.jpg,reddit,https://i.redd.it/6blf5p2luakg1.png,https://www.reddit.com/r/austria/comments/1r8yqzh/,T,R,Y,politics,,Y,r/austria
+photo_reddit_15520.jpg,reddit,https://i.redd.it/g2lw0vkjv1kg1.png,https://www.reddit.com/r/austria/comments/1r74xja/,T,R,N,population,,Y,r/austria
+photo_reddit_15539.jpg,reddit,https://i.redd.it/gwkmn3d9ctjg1.png,https://www.reddit.com/r/austria/comments/1r63pi6/,T,R,N,climate,,Y,r/austria
+photo_reddit_15622.jpg,reddit,https://i.redd.it/afrw36bob0jg1.jpeg,https://www.reddit.com/r/austria/comments/1r2m213/,T,R,N,living,,Y,r/austria
+photo_reddit_15657.jpg,reddit,https://i.redd.it/uvl0jvd0jhig1.jpg,https://www.reddit.com/r/austria/comments/1r06qgt/,T,R,N,politics,,N,r/austria
+photo_reddit_15658.jpg,reddit,https://i.redd.it/alxn7zd0jhig1.jpg,https://www.reddit.com/r/austria/comments/1r06qgt/,T,M,Y,politics,,N,r/austria
+photo_reddit_15688.jpg,reddit,https://i.redd.it/52qkxdvqyjhg1.jpeg,https://www.reddit.com/r/austria/comments/1qyt8k7/,T,R,Y,population,,N,r/austria
+photo_reddit_15741.jpg,reddit,https://i.redd.it/2il3r74k5jhg1.jpeg,https://www.reddit.com/r/austria/comments/1qvyf51/,T,M,Y,AI,,N,r/austria
+photo_reddit_15774.jpg,reddit,https://i.redd.it/wj4ys0nzxvgg1.png,https://www.reddit.com/r/austria/comments/1qt02xn/,T,R,Y,living,,Y,r/austria
+photo_reddit_15775.jpg,reddit,https://i.redd.it/wj4ys0nzxvgg1.png,https://www.reddit.com/r/austria/comments/1qt02xn/,T,R,Y,living,,Y,r/austria
+photo_reddit_15801.jpg,reddit,https://i.redd.it/qoe7by7rjcgg1.jpeg,https://www.reddit.com/r/austria/comments/1qqjsqy/,T,R,Y,living,,N,r/austria
+photo_reddit_15809.jpg,reddit,https://i.redd.it/lhlc6aufo0gg1.png,https://www.reddit.com/r/austria/comments/1qpotu0/,T,R,N,population,,Y,r/austria
+photo_reddit_15818.jpg,reddit,https://i.redd.it/jpj4a14m12gg1.jpeg,https://www.reddit.com/r/austria/comments/1qp6gmk/,T,M,Y,mobility,,Y,r/austria
+photo_reddit_15853.jpg,reddit,https://i.redd.it/2ypvar5qohfg1.jpeg,https://www.reddit.com/r/austria/comments/1qmhvn1/,T,R,Y,population,,Y,r/austria
+photo_reddit_15926.jpg,reddit,https://i.redd.it/c54o6wl9njeg1.png,https://www.reddit.com/r/austria/comments/1qi8cxe/,T,R,N,living,,N,r/austria
+photo_reddit_15964.jpg,reddit,https://i.redd.it/lmasi01n14eg1.png,https://www.reddit.com/r/austria/comments/1qg8oit/,T,R,N,population,,Y,r/austria
+photo_reddit_15970.jpg,reddit,https://i.redd.it/7kor5nf62udg1.jpeg,https://www.reddit.com/r/austria/comments/1qfnjsz/,T,M,Y,living,,Y,r/austria
+photo_reddit_15976.jpg,reddit,https://i.redd.it/tf78ccxdxwdg1.png,https://www.reddit.com/r/austria/comments/1qfdgud/,T,R,Y,living,,Y,r/austria
+photo_reddit_16015.jpg,reddit,https://i.redd.it/z53yqvtf11dg1.jpeg,https://www.reddit.com/r/austria/comments/1qc32yr/,T,R,N,population,,N,r/austria
+photo_reddit_16053.jpg,reddit,https://i.redd.it/csju3tonf9cg1.jpeg,https://www.reddit.com/r/austria/comments/1q8dx6i/,T,R,N,mobility,,Y,r/austria
+photo_reddit_16090.jpg,reddit,https://i.redd.it/35eo2t46stbg1.jpeg,https://www.reddit.com/r/austria/comments/1q60woj/,T,R,N,living,,Y,r/austria
+photo_reddit_16111.jpg,reddit,https://i.redd.it/4z9rs3v1vfbg1.jpg,https://www.reddit.com/r/austria/comments/1q48vhb/,T,R,N,living,,Y,r/austria
+photo_reddit_16122.jpg,reddit,https://i.redd.it/9k6spomd04bg1.png,https://www.reddit.com/r/austria/comments/1q3psvv/,T,R,N,population,,Y,r/austria
+photo_reddit_16199.jpg,reddit,https://i.redd.it/rtz9i4v7k6ag1.png,https://www.reddit.com/r/austria/comments/1pz1nwi/,T,M,Y,AI,,Y,r/austria
+photo_reddit_16221.jpg,reddit,https://i.redd.it/mjkee5rsdl9g1.png,https://www.reddit.com/r/austria/comments/1pwuoes/,T,R,N,climate,comment should not be here,Y,r/austria
+photo_reddit_16283.jpg,reddit,https://i.redd.it/st6wfi8vqj8g1.jpeg,https://www.reddit.com/r/austria/comments/1ps4w6h/,T,M,Y,living,,Y,r/austria
+photo_reddit_16284.jpg,reddit,https://i.redd.it/w0vj1otzlj8g1.jpeg,https://www.reddit.com/r/austria/comments/1ps4gnh/,T,R,Y,living,,Y,r/austria
+photo_reddit_16325.jpg,reddit,https://i.redd.it/3tl948b0yx7g1.png,https://www.reddit.com/r/austria/comments/1ppxk5t/,T,M,Y,population,,Y,r/austria
+photo_reddit_16390.jpg,reddit,https://i.redd.it/p06cv4gdm57g1.jpeg,https://www.reddit.com/r/austria/comments/1pmcv5p/,T,M,Y,living,,Y,r/austria
+photo_reddit_16428.jpg,reddit,https://i.redd.it/bvmgcwwe0k6g1.jpeg,https://www.reddit.com/r/austria/comments/1pjuhan/,T,R,N,politics,,Y,r/austria
+photo_reddit_16451.jpg,reddit,https://i.redd.it/qios9doq0z5g1.png,https://www.reddit.com/r/austria/comments/1phaqx4/,T,R,N,politics,,N,r/austria
+photo_reddit_16500.jpg,reddit,https://i.redd.it/fg802ycue55g1.jpg,https://www.reddit.com/r/austria/comments/1pduw3k/,T,R,N,living,,Y,r/austria
+photo_reddit_17452.jpg,reddit,https://i.redd.it/y9r45dytk4ih1.jpeg,https://www.reddit.com/r/ich_iel/comments/1vis4uh/,T,M,Y,population,,N,r/ich_iel
+photo_reddit_19177.jpg,reddit,https://i.redd.it/5fyqaz7ku9mh1.png,https://www.reddit.com/r/finanzen/comments/1w1gklr/,T,R,N,finance,,N,r/finanzen
+photo_reddit_19213.jpg,reddit,https://i.redd.it/hl60rmp7x2lh1.png,https://www.reddit.com/r/finanzen/comments/1vw0wdh/,T,R,N,finance,,N,r/finanzen
+photo_reddit_19220.jpg,reddit,https://i.redd.it/2trbgxlaiqkh1.png,https://www.reddit.com/r/finanzen/comments/1vuh7cd/,T,R,N,living,,Y,r/finanzen
+photo_reddit_19228.jpg,reddit,https://i.redd.it/3fiamxuxhjkh1.jpeg,https://www.reddit.com/r/finanzen/comments/1vtkzk6/,T,R,Y,finance,,N,r/finanzen
+photo_reddit_19245.jpg,reddit,https://i.redd.it/qikfamyvd3kh1.png,https://www.reddit.com/r/finanzen/comments/1vrj0cm/,T,M,Y,living,,Y,r/finanzen
+photo_reddit_19246.jpg,reddit,https://i.redd.it/f2fx49ue43kh1.png,https://www.reddit.com/r/finanzen/comments/1vrizrh/,T,M,Y,living,,Y,r/finanzen
+photo_reddit_19254.jpg,reddit,https://i.redd.it/fikvkh6l4xjh1.jpg,https://www.reddit.com/r/finanzen/comments/1vqpbny/,T,M,Y,finance,,Y,r/finanzen
+photo_reddit_19261.jpg,reddit,https://i.redd.it/j11on05dbqjh1.jpeg,https://www.reddit.com/r/finanzen/comments/1vpvjfe/,T,M,Y,finance,,Y,r/finanzen
+photo_reddit_19338.jpg,reddit,https://i.redd.it/reicrx1ohrhh1.png,https://www.reddit.com/r/finanzen/comments/1vh57w0/,T,M,Y,finance,,N,r/finanzen
+photo_reddit_19339.jpg,reddit,https://i.redd.it/f1fcr6wyerhh1.jpeg,https://www.reddit.com/r/finanzen/comments/1vh4tg0/,T,M,Y,living,,N,r/finanzen
+photo_reddit_19366.jpg,reddit,https://i.redd.it/bvyzji3v5chh1.png,https://www.reddit.com/r/finanzen/comments/1vf6mdt/,T,R,Y,finance,,N,r/finanzen
+photo_reddit_19389.jpg,reddit,https://i.redd.it/4ttjo1o4tpgh1.jpeg,https://www.reddit.com/r/finanzen/comments/1vcgk0d/,T,M,Y,finance,,Y,r/finanzen
+photo_reddit_19451.jpg,reddit,https://i.redd.it/6rhkvi350ueh1.jpeg,https://www.reddit.com/r/finanzen/comments/1v3q58s/,T,M,Y,finance,,N,r/finanzen
+photo_reddit_19454.jpg,reddit,https://i.redd.it/d36n8uyu1reh1.png,https://www.reddit.com/r/finanzen/comments/1v3b6mf/,T,R,N,finance,,N,r/finanzen
+photo_reddit_19470.jpg,reddit,https://i.redd.it/dbsh105s08eh1.png,https://www.reddit.com/r/finanzen/comments/1v0xox5/,T,R,N,finance,,N,r/finanzen
+photo_reddit_19472.jpg,reddit,https://i.redd.it/oz8sfpnh06eh1.png,https://www.reddit.com/r/finanzen/comments/1v0ndz8/,T,M,Y,finance,,N,r/finanzen
+photo_reddit_19518.jpg,reddit,https://i.redd.it/gbpvkvv802ch1.png,https://www.reddit.com/r/finanzen/comments/1ur27te/,T,M,Y,finance,,N,r/finanzen
+photo_reddit_19532.jpg,reddit,https://i.redd.it/55abuziq8lbh1.jpeg,https://www.reddit.com/r/finanzen/comments/1uotrt8/,T,R,N,finance,,N,r/finanzen
+photo_reddit_19592.jpg,reddit,https://i.redd.it/ibmlnypw7z9h1.jpeg,https://www.reddit.com/r/finanzen/comments/1uhquen/,T,R,Y,climate,,N,r/finanzen
+photo_reddit_19599.jpg,reddit,https://i.redd.it/dkwogtcbpo9h1.png,https://www.reddit.com/r/finanzen/comments/1ughn3c/,T,M,Y,finance,,N,r/finanzen
+photo_reddit_19669.jpg,reddit,https://i.redd.it/bzj0ll1h278h1.jpeg,https://www.reddit.com/r/finanzen/comments/1u9vmw3/,T,R,N,finance,,N,r/finanzen
+photo_reddit_19678.jpg,reddit,https://bodenbericht.de/images/blog/setzungsrisse/city_settlement_panel.png,https://www.reddit.com/r/finanzen/comments/1u9c2gc/,T,M,Y,living,,Y,r/finanzen
+photo_reddit_19694.jpg,reddit,https://i.redd.it/evglrkjm8o7h1.jpeg,https://www.reddit.com/r/finanzen/comments/1u7ifhj/,T,R,N,living,,N,r/finanzen
+photo_reddit_19702.jpg,reddit,https://i.redd.it/q9l5ulrnml7h1.jpg,https://www.reddit.com/r/finanzen/comments/1u76uwg/,T,R,N,finance,,N,r/finanzen
+photo_reddit_19722.jpg,reddit,https://i.redd.it/gjj7g97f7b7h1.jpeg,https://www.reddit.com/r/finanzen/comments/1u5ym2h/,T,R,Y,finance,,N,r/finanzen
+photo_reddit_19737.jpg,reddit,https://i.redd.it/3y0twk3p2w6h1.png,https://www.reddit.com/r/finanzen/comments/1u42j5j/,T,R,Y,finance,,N,r/finanzen
+photo_reddit_19823.jpg,reddit,https://i.redd.it/uy5f3qvsa75h1.png,https://www.reddit.com/r/finanzen/comments/1twe8lh/,T,M,Y,finance,,N,r/finanzen
+photo_reddit_19825.jpg,reddit,https://i.redd.it/6cx8xv7v445h1.png,https://www.reddit.com/r/finanzen/comments/1tw24dj/,T,R,Y,living,,Y,r/finanzen
+photo_reddit_19838.jpg,reddit,https://i.redd.it/awm0p2trx15h1.png,https://www.reddit.com/r/finanzen/comments/1tvmbn8/,T,R,N,finance,,N,r/finanzen
+photo_reddit_20039.jpg,reddit,https://i.redd.it/853ml8iwk7hh1.png,https://www.reddit.com/r/munich/comments/1vems1e/,T,R,N,climate,,N,r/munich
+photo_reddit_20060.jpg,reddit,https://i.redd.it/qpo6u35ovjgh1.png,https://www.reddit.com/r/munich/comments/1vboe3l/,T,R,N,mobility,,N,r/munich
+photo_reddit_20068.jpg,reddit,https://i.redd.it/pdealj1dfzfh1.jpg,https://www.reddit.com/r/munich/comments/1v90e78/,T,R,N,living,,N,r/munich
+photo_reddit_20087.jpg,reddit,https://i.redd.it/gub6yeqpxcfh1.jpg,https://www.reddit.com/r/munich/comments/1v65fc8/,T,R,Y,living,,N,r/munich
+photo_reddit_20126.jpg,reddit,https://i.redd.it/p4zzizd8steh1.png,https://www.reddit.com/r/munich/comments/1v3ow6y/,T,R,Y,living,,N,r/munich
+photo_reddit_20128.jpg,reddit,https://i.redd.it/p4zzizd8steh1.png,https://www.reddit.com/r/munich/comments/1v3ow6y/,T,R,Y,living,,N,r/munich
+photo_reddit_20471.jpg,reddit,https://i.redd.it/e592gxipyktg1.png,https://www.reddit.com/r/verkehrswende/comments/1se0hgx/,T,R,Y,mobility,why not all accidents?,Y,r/verkehrswende
+photo_reddit_20492.jpg,reddit,https://i.redd.it/78w1n8l45tkg1.png,https://www.reddit.com/r/verkehrswende/comments/1raluyk/,T,R,Y,living,,Y,r/verkehrswende
+photo_reddit_20700.jpg,reddit,https://i.redd.it/6xrldhgoiavc1.jpeg,https://www.reddit.com/r/verkehrswende/comments/1c7z4fp/,T,R,N,mobility,,N,r/verkehrswende
+photo_reddit_20765.jpg,reddit,https://i.redd.it/kq2qiqsrlj2c1.png,https://www.reddit.com/r/verkehrswende/comments/183r3lj/,T,R,N,politics,,N,r/verkehrswende
+photo_reddit_20960.jpg,reddit,https://i.redd.it/663wz081y8ra1.png,https://www.reddit.com/r/verkehrswende/comments/128mgu5/,T,R,N,mobility,,N,r/verkehrswende
+photo_reddit_21090.jpg,reddit,https://i.redd.it/81m7hxwme53a1.jpg,https://www.reddit.com/r/verkehrswende/comments/z8vemk/,T,R,N,mobility,,N,r/verkehrswende
+photo_reddit_21132.jpg,reddit,https://i.redd.it/b513eoc4vys91.png,https://www.reddit.com/r/verkehrswende/comments/y0cpvg/,T,R,N,mobility,,Y,r/verkehrswende
+photo_reddit_21172.jpg,reddit,https://i.redd.it/zkjdusdf29l91.jpg,https://www.reddit.com/r/verkehrswende/comments/x37uuj/,T,R,N,mobility,,Y,r/verkehrswende
+photo_reddit_21239.jpg,reddit,https://i.redd.it/hgfb34csa6891.png,https://www.reddit.com/r/verkehrswende/comments/vm6uzc/,T,R,Y,Energy prices,,N,r/verkehrswende
+photo_reddit_21246.jpg,reddit,https://i.redd.it/jhhlregctc791.png,https://www.reddit.com/r/verkehrswende/comments/vixqf2/,T,R,N,mobility,,Y,r/verkehrswende
+photo_reddit_21383.jpg,reddit,https://i.redd.it/e29gyadom6m81.png,https://www.reddit.com/r/verkehrswende/comments/t9m9oj/,T,R,N,mobility,,N,r/verkehrswende
+photo_reddit_21437.jpg,reddit,https://i.imgur.com/K2Wp4QI.jpg,https://www.reddit.com/r/verkehrswende/comments/orcart/,T,R,Y,mobility,,N,r/verkehrswende
+photo_reddit_21560.jpg,reddit,https://i.redd.it/vra1qklex8ce1.jpg,https://www.reddit.com/r/koeln/comments/1hyhgk2/,T,R,N,mobility,,N,r/koeln
+photo_reddit_21593.jpg,reddit,https://i.redd.it/bvzgbkspqs9b1.png,https://www.reddit.com/r/koeln/comments/14qbdow/,T,R,N,politics,,N,r/koeln
+photo_reddit_22028.jpg,reddit,https://i.redd.it/avi4qz9c8ldh1.jpeg,https://www.reddit.com/r/berlin/comments/1uy1w4s/,T,M,Y,mobility,,N,r/berlin
+photo_reddit_22247.jpg,reddit,https://i.redd.it/8563ryakx69h1.png,https://www.reddit.com/r/berlin/comments/1ue7mfp/,T,R,N,climate,,N,r/berlin
+photo_reddit_22259.jpg,reddit,https://i.imgur.com/jOCgKPc.png,https://www.reddit.com/r/berlin/comments/1ucxuwe/,T,R,Y,climate/finance,,N,r/berlin
+photo_reddit_22560.jpg,reddit,https://i.redd.it/iqnx611ypt1h1.jpg,https://www.reddit.com/r/berlin/comments/1tgbvjs/,T,R,Y,politics,,N,r/berlin
+photo_reddit_22600.jpg,reddit,https://i.redd.it/r6pwy8llya1h1.jpeg,https://www.reddit.com/r/berlin/comments/1tdwa0z/,T,R,N,politics,,N,r/berlin
+photo_reddit_23197.jpg,reddit,https://i.redd.it/k43bkccgve2h1.png,https://www.reddit.com/r/nachrichten/comments/1tj8l4j/,T,R,N,climate,,N,r/nachrichten
+photo_reddit_23200.jpg,reddit,https://i.redd.it/pl3170ba892h1.jpeg,https://www.reddit.com/r/nachrichten/comments/1tifksi/,T,R,N,Energy prices,,N,r/nachrichten
+photo_reddit_23201.jpg,reddit,https://i.redd.it/1d0qtelp692h1.jpeg,https://www.reddit.com/r/nachrichten/comments/1tiffe8/,T,R,N,Energy prices,,N,r/nachrichten
+photo_reddit_23214.jpg,reddit,https://i.redd.it/k20jgjsbs91h1.png,https://www.reddit.com/r/nachrichten/comments/1tdr5od/,T,R,Y,climate,,N,r/nachrichten
+photo_reddit_24211.jpg,reddit,https://i.redd.it/5rp9d919nrjh1.jpeg,https://www.reddit.com/r/wien/comments/1vq550a/,T,R,N,mobility,,Y,r/wien
+photo_reddit_24356.jpg,reddit,https://i.redd.it/ryi0bi1yw0ih1.jpeg,https://www.reddit.com/r/wien/comments/1viobqo/,T,R,N,mobility,,N,r/wien
+photo_reddit_24402.jpg,reddit,https://i.redd.it/ek6cudmojihh1.jpeg,https://www.reddit.com/r/wien/comments/1vg0y1y/,T,R,N,living,,N,r/wien
+photo_reddit_24406.jpg,reddit,https://i.redd.it/augw33ih7ihh1.png,https://www.reddit.com/r/wien/comments/1vfzrh1/,T,R,N,climate,,N,r/wien
+photo_reddit_24413.jpg,reddit,https://i.redd.it/uta0woft0dhh1.jpg,https://www.reddit.com/r/wien/comments/1vfagid/,T,R,Y,green in cities,,Y,r/wien
+photo_reddit_24819.jpg,reddit,https://i.redd.it/lw8exe6399ah1.jpeg,https://www.reddit.com/r/wien/comments/1uiyoxj/,T,R,N,climate,,Y,r/wien
+photo_reddit_24943.jpg,reddit,https://i.redd.it/b3mtjfft8m8h1.jpeg,https://www.reddit.com/r/wien/comments/1ubn06k/,T,M,Y,climate,,Y,r/wien
+photo_reddit_25232.jpg,reddit,https://i.redd.it/ui2nu44yhcjh1.png,https://www.reddit.com/r/de_EDV/comments/1vo7utm/,T,R,N,finance,,N,r/de_EDV
+photo_telegram_11.jpg,telegram,https://t.me/dieKlimaluege/1596,https://t.me/dieKlimaluege/1596,T,M,Y,energy,,N,dieKlimaluege
+photo_telegram_26.jpg,telegram,https://t.me/dieKlimaluege/1531,https://t.me/dieKlimaluege/1531,T,M,Y,energy,,N,dieKlimaluege
+photo_telegram_35.jpg,telegram,https://t.me/dieKlimaluege/1443,https://t.me/dieKlimaluege/1443,T,M,Y,climate,,N,dieKlimaluege
+photo_telegram_213.jpg,telegram,https://t.me/dieKlimaluege/875,https://t.me/dieKlimaluege/875,T,M,Y,climate,,N,dieKlimaluege
+photo_telegram_229.jpg,telegram,https://t.me/dieKlimaluege/781,https://t.me/dieKlimaluege/781,T,M,Y,climate,,N,dieKlimaluege
+photo_telegram_285.jpg,telegram,https://t.me/dieKlimaluege/595,https://t.me/dieKlimaluege/595,T,R,Y,climate,not even units on sclae,N,dieKlimaluege
+photo_telegram_309.jpg,telegram,https://t.me/dieKlimaluege/490,https://t.me/dieKlimaluege/490,T,R,Y,climate,,N,dieKlimaluege
+photo_telegram_340.jpg,telegram,https://t.me/dieKlimaluege/381,https://t.me/dieKlimaluege/381,T,R,Y,climate,drawn on image,N,dieKlimaluege
+photo_telegram_397.jpg,telegram,https://t.me/dieKlimaluege/159,https://t.me/dieKlimaluege/159,T,M,Y,climate,apparently has been debunked a few times but data is correct,N,dieKlimaluege
+photo_telegram_1043.jpg,telegram,https://t.me/dijogoe/3639,https://t.me/dijogoe/3639,T,M,Y,climate,,Y,dijogoe
+photo_telegram_1152.jpg,telegram,https://t.me/dijogoe/3294,https://t.me/dijogoe/3294,T,M,Y,health,,N,dijogoe
+photo_telegram_1292.jpg,telegram,https://t.me/dijogoe/2944,https://t.me/dijogoe/2944,T,M,Y,climate,,N,dijogoe
+photo_telegram_1431.jpg,telegram,https://t.me/dijogoe/2558,https://t.me/dijogoe/2558,T,M,Y,climate,,Y,dijogoe
+photo_telegram_1437.jpg,telegram,https://t.me/dijogoe/2532,https://t.me/dijogoe/2532,T,R,Y,industry,,Y,dijogoe
+photo_telegram_1601.jpg,telegram,https://t.me/dijogoe/2062,https://t.me/dijogoe/2062,T,R,N,economy,,N,dijogoe
+photo_telegram_2245.jpg,telegram,https://t.me/dijogoe/673,https://t.me/dijogoe/673,T,R,Y,politics,,Y,dijogoe
+photo_telegram_2552.jpg,telegram,https://t.me/MissionDE/11641,https://t.me/MissionDE/11641,T,R,N,climate,,Y,MissionDE
+photo_telegram_2624.jpg,telegram,https://t.me/MissionDE/11539,https://t.me/MissionDE/11539,T,R,N,climate,,N,MissionDE
+photo_telegram_2777.jpg,telegram,https://t.me/MissionDE/11156,https://t.me/MissionDE/11156,T,R,N,climate,,N,MissionDE
+photo_telegram_2807.jpg,telegram,https://t.me/MissionDE/11147,https://t.me/MissionDE/11147,T,R,N,climate,,N,MissionDE
+photo_telegram_2991.jpg,telegram,https://t.me/MissionDE/10700,https://t.me/MissionDE/10700,T,R,Y,animal experiments,,Y,MissionDE
+photo_telegram_3077.jpg,telegram,https://t.me/MissionDE/10526,https://t.me/MissionDE/10526,T,M,Y,climate?,,N,MissionDE
+photo_telegram_3720.jpg,telegram,https://t.me/MissionDE/9481,https://t.me/MissionDE/9481,T,R,Y,mobility/climate,,N,MissionDE
+photo_telegram_3792.jpg,telegram,https://t.me/MissionDE/9367,https://t.me/MissionDE/9367,T,R,N,climate,,Y,MissionDE
+photo_telegram_4095.jpg,telegram,https://t.me/MissionDE/8822,https://t.me/MissionDE/8822,T,R,Y,living,,N,MissionDE
+photo_telegram_4141.jpg,telegram,https://t.me/MissionDE/8730,https://t.me/MissionDE/8730,T,R,Y,climate,,Y,MissionDE
+photo_telegram_4633.jpg,telegram,https://t.me/MissionDE/7781,https://t.me/MissionDE/7781,T,R,Y,living,,N,MissionDE
+photo_telegram_4714.jpg,telegram,https://t.me/MissionDE/7625,https://t.me/MissionDE/7625,T,R,N,climate,,N,MissionDE
+photo_telegram_4869.jpg,telegram,https://t.me/MissionDE/7370,https://t.me/MissionDE/7370,T,R,N,climate,,N,MissionDE
+photo_telegram_5845.jpg,telegram,https://t.me/MissionDE/5611,https://t.me/MissionDE/5611,T,R,N,climate,,N,MissionDE
+photo_telegram_6755.jpg,telegram,https://t.me/MissionDE/3652,https://t.me/MissionDE/3652,T,R,N,climate,,N,MissionDE
+photo_telegram_7084.jpg,telegram,https://t.me/MissionDE/2912,https://t.me/MissionDE/2912,T,R,Y,climate,,N,MissionDE
+photo_telegram_7087.jpg,telegram,https://t.me/MissionDE/2915,https://t.me/MissionDE/2915,T,R,N,climate,,N,MissionDE
+photo_telegram_7194.jpg,telegram,https://t.me/MissionDE/2708,https://t.me/MissionDE/2708,T,R,N,climate,,N,MissionDE
+photo_telegram_7427.jpg,telegram,https://t.me/MissionDE/2253,https://t.me/MissionDE/2253,T,R,N,climate ,,N,MissionDE
+photo_telegram_7551.jpg,telegram,https://t.me/MissionDE/2010,https://t.me/MissionDE/2010,T,R,N,climate,,N,MissionDE
+photo_telegram_7847.jpg,telegram,https://t.me/MissionDE/1483,https://t.me/MissionDE/1483,T,R,Y,politics/climate,,N,MissionDE
+photo_telegram_8076.jpg,telegram,https://t.me/MissionDE/986,https://t.me/MissionDE/986,T,M,Y,energy,this is from just 1 day? or what is the scale? the power production cant be per year,N,MissionDE
+photo_telegram_8300.jpg,telegram,https://t.me/MissionDE/589,https://t.me/MissionDE/589,T,M,Y,economy,,N,MissionDE
+photo_telegram_8336.jpg,telegram,https://t.me/MissionDE/522,https://t.me/MissionDE/522,T,R,N,climate,,N,MissionDE
+photo_telegram_8448.jpg,telegram,https://t.me/MissionDE/380,https://t.me/MissionDE/380,T,R,N,politics,,Y,MissionDE
+photo_telegram_8467.jpg,telegram,https://t.me/MissionDE/369,https://t.me/MissionDE/369,T,R,N,climate,,N,MissionDE
+photo_telegram_8572.jpg,telegram,https://t.me/MissionDE/154,https://t.me/MissionDE/154,T,R,N,culture,,Y,MissionDE
+photo_telegram_8810.jpg,telegram,https://t.me/betterknownow/4833,https://t.me/betterknownow/4833,T,M,N,politics,,N,betterknownow
+photo_telegram_8813.jpg,telegram,https://t.me/betterknownow/4808,https://t.me/betterknownow/4808,T,R,N,Energy prices,,Y,betterknownow
+photo_telegram_8868.jpg,telegram,https://t.me/betterknownow/4611,https://t.me/betterknownow/4611,T,M,Y,health,,N,betterknownow
+photo_telegram_9200.jpg,telegram,https://t.me/betterknownow/3447,https://t.me/betterknownow/3447,T,R,Y,culture,,N,betterknownow
+photo_telegram_9433.jpg,telegram,https://t.me/betterknownow/2821,https://t.me/betterknownow/2821,T,R,Y,economy,,N,betterknownow
+photo_telegram_9460.jpg,telegram,https://t.me/betterknownow/2727,https://t.me/betterknownow/2727,T,R,N,culture,,N,betterknownow
+photo_telegram_9798.jpg,telegram,https://t.me/betterknownow/1747,https://t.me/betterknownow/1747,T,R,N,health,,Y,betterknownow
+photo_telegram_9831.jpg,telegram,https://t.me/betterknownow/1636,https://t.me/betterknownow/1636,T,M,N,health,,Y,betterknownow
+photo_telegram_10014.jpg,telegram,https://t.me/betterknownow/1158,https://t.me/betterknownow/1158,T,R,Y,culture,,N,betterknownow
+photo_telegram_10030.jpg,telegram,https://t.me/betterknownow/1120,https://t.me/betterknownow/1120,T,M,N,living,,Y,betterknownow
+photo_telegram_10037.jpg,telegram,https://t.me/betterknownow/1068,https://t.me/betterknownow/1068,T,M,Y,energy,,Y,betterknownow
+photo_telegram_10147.jpg,telegram,https://t.me/betterknownow/764,https://t.me/betterknownow/764,T,R,N,culture,,Y,betterknownow
+photo_telegram_10169.jpg,telegram,https://t.me/betterknownow/737,https://t.me/betterknownow/737,T,M,Y,climate,,N,betterknownow
+photo_telegram_10185.jpg,telegram,https://t.me/betterknownow/678,https://t.me/betterknownow/678,T,M,Y,climate,,N,betterknownow
+photo_telegram_10231.jpg,telegram,https://t.me/betterknownow/581,https://t.me/betterknownow/581,T,M,Y,climate,only partial image,Y,betterknownow
+photo_telegram_10266.jpg,telegram,https://t.me/betterknownow/451,https://t.me/betterknownow/451,T,R,Y,immigration,,Y,betterknownow
+photo_telegram_10345.jpg,telegram,https://t.me/betterknownow/173,https://t.me/betterknownow/173,T,R,Y,living,BILD Zeitung,N,betterknownow
+photo_telegram_10406.jpg,telegram,https://t.me/IchStelleFragenCoronaEdition/64,https://t.me/IchStelleFragenCoronaEdition/64,T,R,Y,culture,,Y,IchStelleFragenCoronaEdition
+photo_telegram_10425.jpg,telegram,https://t.me/IchStelleFragenCoronaEdition/53,https://t.me/IchStelleFragenCoronaEdition/53,T,R,Y,health,,N,IchStelleFragenCoronaEdition
+photo_telegram_10440.jpg,telegram,https://t.me/IchStelleFragenCoronaEdition/25,https://t.me/IchStelleFragenCoronaEdition/25,T,M,Y,health,,Y,IchStelleFragenCoronaEdition
+photo_telegram_10448.jpg,telegram,https://t.me/IchStelleFragenCoronaEdition/2,https://t.me/IchStelleFragenCoronaEdition/2,T,R,Y,health,,N,IchStelleFragenCoronaEdition
+photo_telegram_11000.jpg,telegram,https://t.me/tagesschauer/10715,https://t.me/tagesschauer/10715,T,M,Y,immigration,,Y,tagesschauer
+photo_telegram_11025.jpg,telegram,https://t.me/tagesschauer/10676,https://t.me/tagesschauer/10676,T,R,N,politics,,N,tagesschauer
+photo_telegram_11306.jpg,telegram,https://t.me/tagesschauer/10276,https://t.me/tagesschauer/10276,T,M,Y,immigration/crime,,N,tagesschauer
+photo_telegram_12158.jpg,telegram,https://t.me/tagesschauer/8974,https://t.me/tagesschauer/8974,T,M,N,immigration/crime,,N,tagesschauer
+photo_telegram_12421.jpg,telegram,https://t.me/tagesschauer/8547,https://t.me/tagesschauer/8547,T,M,Y,immigration,,N,tagesschauer
+photo_telegram_14533.jpg,telegram,https://t.me/tagesschauer/5197,https://t.me/tagesschauer/5197,T,R,Y,climate,,N,tagesschauer
+photo_telegram_14742.jpg,telegram,https://t.me/tagesschauer/4850,https://t.me/tagesschauer/4850,T,R,Y,immigration,,N,tagesschauer
+photo_telegram_14965.jpg,telegram,https://t.me/tagesschauer/4459,https://t.me/tagesschauer/4459,T,R,N,politics,,N,tagesschauer
+photo_telegram_15653.jpg,telegram,https://t.me/tagesschauer/3350,https://t.me/tagesschauer/3350,T,M,Y,climate,,Y,tagesschauer
+photo_telegram_15709.jpg,telegram,https://t.me/tagesschauer/3251,https://t.me/tagesschauer/3251,T,R,Y,finance,,Y,tagesschauer
+photo_telegram_16065.jpg,telegram,https://t.me/tagesschauer/2642,https://t.me/tagesschauer/2642,T,M,Y,immigration,,Y,tagesschauer
+photo_telegram_16372.jpg,telegram,https://t.me/tagesschauer/2113,https://t.me/tagesschauer/2113,T,R,Y,politics,,N,tagesschauer
+photo_telegram_16741.jpg,telegram,https://t.me/tagesschauer/1391,https://t.me/tagesschauer/1391,T,M,Y,politics,,N,tagesschauer
+photo_telegram_16815.jpg,telegram,https://t.me/tagesschauer/1219,https://t.me/tagesschauer/1219,T,R,N,living,,N,tagesschauer
+photo_telegram_16953.jpg,telegram,https://t.me/tagesschauer/961,https://t.me/tagesschauer/961,T,M,Y,climate,,N,tagesschauer
+photo_telegram_16988.jpg,telegram,https://t.me/tagesschauer/881,https://t.me/tagesschauer/881,T,R,Y,climate,,Y,tagesschauer
+photo_telegram_16990.jpg,telegram,https://t.me/tagesschauer/850,https://t.me/tagesschauer/850,T,R,Y,politics,,N,tagesschauer
+photo_telegram_17549.jpg,telegram,https://t.me/wettermanipulation_klima_haarp/343,https://t.me/wettermanipulation_klima_haarp/343,T,M,Y,climate,,Y,wettermanipulation_klima_haarp
+photo_telegram_17562.jpg,telegram,https://t.me/wettermanipulation_klima_haarp/296,https://t.me/wettermanipulation_klima_haarp/296,T,M,Y,climate,,N,wettermanipulation_klima_haarp
+photo_telegram_17563.jpg,telegram,https://t.me/wettermanipulation_klima_haarp/298,https://t.me/wettermanipulation_klima_haarp/298,T,M,Y,climate,,Y,wettermanipulation_klima_haarp
+photo_telegram_56316.jpg,telegram,https://t.me/Klima_kanal/840,https://t.me/Klima_kanal/840,T,M,Y,climate,,N,Klima_kanal
+photo_telegram_56318.jpg,telegram,https://t.me/Klima_kanal/840,https://t.me/Klima_kanal/840,T,M,Y,climate,,N,Klima_kanal
+photo_telegram_56395.jpg,telegram,https://t.me/Klima_kanal/706,https://t.me/Klima_kanal/706,T,M,Y,climate,,N,Klima_kanal
+photo_telegram_56397.jpg,telegram,https://t.me/Klima_kanal/711,https://t.me/Klima_kanal/711,T,M,Y,climate,,Y,Klima_kanal
+photo_telegram_56421.jpg,telegram,https://t.me/Klima_kanal/687,https://t.me/Klima_kanal/687,T,M,Y,climate,,N,Klima_kanal
+photo_telegram_56492.jpg,telegram,https://t.me/Klima_kanal/501,https://t.me/Klima_kanal/501,T,M,Y,climate,,N,Klima_kanal
+photo_telegram_56497.jpg,telegram,https://t.me/Klima_kanal/511,https://t.me/Klima_kanal/511,T,M,Y,climate,,N,Klima_kanal
+photo_telegram_56532.jpg,telegram,https://t.me/Klima_kanal/360,https://t.me/Klima_kanal/360,T,M,Y,climate,,Y,Klima_kanal
+photo_telegram_57194.jpg,telegram,https://t.me/impfopferarchiv/2457,https://t.me/impfopferarchiv/2457,T,R,Y,health,,Y,impfopferarchiv
+photo_telegram_57802.jpg,telegram,https://t.me/impfopferarchiv/1060,https://t.me/impfopferarchiv/1060,T,M,Y,health,,N,impfopferarchiv
+photo_telegram_58116.jpg,telegram,https://t.me/top20radioUmwelt/2364,https://t.me/top20radioUmwelt/2364,T,M,Y,climate,,N,top20radioUmwelt
+photo_telegram_58150.jpg,telegram,https://t.me/top20radioUmwelt/2259,https://t.me/top20radioUmwelt/2259,T,M,Y,climate,,N,top20radioUmwelt
+photo_telegram_58151.jpg,telegram,https://t.me/top20radioUmwelt/2224,https://t.me/top20radioUmwelt/2224,T,M,Y,climate,,N,top20radioUmwelt
+photo_telegram_58159.jpg,telegram,https://t.me/top20radioUmwelt/2208,https://t.me/top20radioUmwelt/2208,T,R,N,climate,,Y,top20radioUmwelt
+photo_telegram_58273.jpg,telegram,https://t.me/top20radioUmwelt/1774,https://t.me/top20radioUmwelt/1774,T,M,Y,climate,,N,top20radioUmwelt
+photo_telegram_58395.jpg,telegram,https://t.me/top20radioUmwelt/1207,https://t.me/top20radioUmwelt/1207,T,M,Y,climate,comment should not be here,N,top20radioUmwelt
+photo_telegram_58408.jpg,telegram,https://t.me/top20radioUmwelt/1141,https://t.me/top20radioUmwelt/1141,T,M,Y,climate,comment should not be here,N,top20radioUmwelt
+photo_telegram_58421.jpg,telegram,https://t.me/top20radioUmwelt/1140,https://t.me/top20radioUmwelt/1140,T,M,Y,climate,comment should not be here,N,top20radioUmwelt
+photo_telegram_58461.jpg,telegram,https://t.me/top20radioUmwelt/980,https://t.me/top20radioUmwelt/980,T,R,Y,climate,,N,top20radioUmwelt
+photo_telegram_58472.jpg,telegram,https://t.me/top20radioUmwelt/950,https://t.me/top20radioUmwelt/950,T,M,Y,climate,,N,top20radioUmwelt
+photo_telegram_58747.jpg,telegram,https://t.me/KlimaluegeStoffsammlung/245,https://t.me/KlimaluegeStoffsammlung/245,T,R,N,climate,comment should not be here,N,KlimaluegeStoffsammlung
+photo_telegram_58765.jpg,telegram,https://t.me/KlimaluegeStoffsammlung/202,https://t.me/KlimaluegeStoffsammlung/202,T,R,Y,climate,,Y,KlimaluegeStoffsammlung
+photo_telegram_58767.jpg,telegram,https://t.me/KlimaluegeStoffsammlung/205,https://t.me/KlimaluegeStoffsammlung/205,T,R,Y,climate,,Y,KlimaluegeStoffsammlung
+photo_telegram_58784.jpg,telegram,https://t.me/KlimaluegeStoffsammlung/169,https://t.me/KlimaluegeStoffsammlung/169,T,R,N,climate,,N,KlimaluegeStoffsammlung
+photo_telegram_58798.jpg,telegram,https://t.me/KlimaluegeStoffsammlung/121,https://t.me/KlimaluegeStoffsammlung/121,T,R,Y,emissions/climate,,Y,KlimaluegeStoffsammlung
+photo_telegram_58813.jpg,telegram,https://t.me/KlimaluegeStoffsammlung/54,https://t.me/KlimaluegeStoffsammlung/54,T,M,Y,climate,,Y,KlimaluegeStoffsammlung
+photo_telegram_58921.jpg,telegram,https://t.me/wetter_klima_umwelt/187,https://t.me/wetter_klima_umwelt/187,T,R,N,climate,,N,wetter_klima_umwelt
+photo_telegram_59007.jpg,telegram,https://t.me/KlimaMaerchen/233,https://t.me/KlimaMaerchen/233,T,R,Y,climate,,N,KlimaMaerchen
+photo_telegram_59016.jpg,telegram,https://t.me/KlimaMaerchen/187,https://t.me/KlimaMaerchen/187,T,R,Y,climate,,Y,KlimaMaerchen
+photo_telegram_59027.jpg,telegram,https://t.me/KlimaMaerchen/156,https://t.me/KlimaMaerchen/156,T,M,Y,climate,,Y,KlimaMaerchen
+photo_telegram_59031.jpg,telegram,https://t.me/KlimaMaerchen/175,https://t.me/KlimaMaerchen/175,T,M,Y,climate,,N,KlimaMaerchen
+photo_telegram_59066.jpg,telegram,https://t.me/EnergiewendeDeuschland/996,https://t.me/EnergiewendeDeuschland/996,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59068.jpg,telegram,https://t.me/EnergiewendeDeuschland/996,https://t.me/EnergiewendeDeuschland/996,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59070.jpg,telegram,https://t.me/EnergiewendeDeuschland/996,https://t.me/EnergiewendeDeuschland/996,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59076.jpg,telegram,https://t.me/EnergiewendeDeuschland/1006,https://t.me/EnergiewendeDeuschland/1006,T,R,Y,climate ,,Y,EnergiewendeDeuschland
+photo_telegram_59077.jpg,telegram,https://t.me/EnergiewendeDeuschland/1006,https://t.me/EnergiewendeDeuschland/1006,T,R,Y,climate ,,Y,EnergiewendeDeuschland
+photo_telegram_59089.jpg,telegram,https://t.me/EnergiewendeDeuschland/976,https://t.me/EnergiewendeDeuschland/976,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59108.jpg,telegram,https://t.me/EnergiewendeDeuschland/961,https://t.me/EnergiewendeDeuschland/961,T,M,Y,climate,,N,EnergiewendeDeuschland
+photo_telegram_59121.jpg,telegram,https://t.me/EnergiewendeDeuschland/973,https://t.me/EnergiewendeDeuschland/973,T,R,Y,cars,,Y,EnergiewendeDeuschland
+photo_telegram_59168.jpg,telegram,https://t.me/EnergiewendeDeuschland/894,https://t.me/EnergiewendeDeuschland/894,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59170.jpg,telegram,https://t.me/EnergiewendeDeuschland/894,https://t.me/EnergiewendeDeuschland/894,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59172.jpg,telegram,https://t.me/EnergiewendeDeuschland/904,https://t.me/EnergiewendeDeuschland/904,T,R,N,climate,comment should not be here,Y,EnergiewendeDeuschland
+photo_telegram_59176.jpg,telegram,https://t.me/EnergiewendeDeuschland/904,https://t.me/EnergiewendeDeuschland/904,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59181.jpg,telegram,https://t.me/EnergiewendeDeuschland/904,https://t.me/EnergiewendeDeuschland/904,T,R,N,energy resources,comment should not be here,Y,EnergiewendeDeuschland
+photo_telegram_59191.jpg,telegram,https://t.me/EnergiewendeDeuschland/870,https://t.me/EnergiewendeDeuschland/870,T,R,N,climate ,,Y,EnergiewendeDeuschland
+photo_telegram_59195.jpg,telegram,https://t.me/EnergiewendeDeuschland/880,https://t.me/EnergiewendeDeuschland/880,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59196.jpg,telegram,https://t.me/EnergiewendeDeuschland/880,https://t.me/EnergiewendeDeuschland/880,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59228.jpg,telegram,https://t.me/EnergiewendeDeuschland/818,https://t.me/EnergiewendeDeuschland/818,T,R,N,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59231.jpg,telegram,https://t.me/EnergiewendeDeuschland/818,https://t.me/EnergiewendeDeuschland/818,T,R,N,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59240.jpg,telegram,https://t.me/EnergiewendeDeuschland/834,https://t.me/EnergiewendeDeuschland/834,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59243.jpg,telegram,https://t.me/EnergiewendeDeuschland/834,https://t.me/EnergiewendeDeuschland/834,T,R,Y,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59255.jpg,telegram,https://t.me/EnergiewendeDeuschland/795,https://t.me/EnergiewendeDeuschland/795,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59257.jpg,telegram,https://t.me/EnergiewendeDeuschland/795,https://t.me/EnergiewendeDeuschland/795,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59273.jpg,telegram,https://t.me/EnergiewendeDeuschland/815,https://t.me/EnergiewendeDeuschland/815,T,R,N,climate,,Y,EnergiewendeDeuschland
+photo_telegram_59282.jpg,telegram,https://t.me/EnergiewendeDeuschland/775,https://t.me/EnergiewendeDeuschland/775,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59290.jpg,telegram,https://t.me/EnergiewendeDeuschland/785,https://t.me/EnergiewendeDeuschland/785,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59294.jpg,telegram,https://t.me/EnergiewendeDeuschland/785,https://t.me/EnergiewendeDeuschland/785,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59310.jpg,telegram,https://t.me/EnergiewendeDeuschland/765,https://t.me/EnergiewendeDeuschland/765,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59322.jpg,telegram,https://t.me/EnergiewendeDeuschland/734,https://t.me/EnergiewendeDeuschland/734,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59324.jpg,telegram,https://t.me/EnergiewendeDeuschland/734,https://t.me/EnergiewendeDeuschland/734,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59326.jpg,telegram,https://t.me/EnergiewendeDeuschland/745,https://t.me/EnergiewendeDeuschland/745,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59365.jpg,telegram,https://t.me/EnergiewendeDeuschland/683,https://t.me/EnergiewendeDeuschland/683,T,R,N,Energy prices,,Y,EnergiewendeDeuschland
+photo_telegram_59368.jpg,telegram,https://t.me/EnergiewendeDeuschland/693,https://t.me/EnergiewendeDeuschland/693,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59764.jpg,telegram,https://t.me/EnergiewendeDeuschland/296,https://t.me/EnergiewendeDeuschland/296,T,R,N,Energy prices,,Y,EnergiewendeDeuschland
+photo_telegram_59766.jpg,telegram,https://t.me/EnergiewendeDeuschland/296,https://t.me/EnergiewendeDeuschland/296,T,R,N,Energy prices,,Y,EnergiewendeDeuschland
+photo_telegram_59767.jpg,telegram,https://t.me/EnergiewendeDeuschland/296,https://t.me/EnergiewendeDeuschland/296,T,R,N,Energy prices,,Y,EnergiewendeDeuschland
+photo_telegram_59770.jpg,telegram,https://t.me/EnergiewendeDeuschland/256,https://t.me/EnergiewendeDeuschland/256,T,R,N,Energy prices,,Y,EnergiewendeDeuschland
+photo_telegram_59796.jpg,telegram,https://t.me/EnergiewendeDeuschland/236,https://t.me/EnergiewendeDeuschland/236,T,R,N,energy,,Y,EnergiewendeDeuschland
+photo_telegram_59816.jpg,telegram,https://t.me/EnergiewendeDeuschland/216,https://t.me/EnergiewendeDeuschland/216,T,R,Y,politics/climate,,Y,EnergiewendeDeuschland
+photo_telegram_59823.jpg,telegram,https://t.me/EnergiewendeDeuschland/226,https://t.me/EnergiewendeDeuschland/226,T,R,Y,energy,,Y,EnergiewendeDeuschland
+photo_telegram_59832.jpg,telegram,https://t.me/EnergiewendeDeuschland/196,https://t.me/EnergiewendeDeuschland/196,T,R,N,energy,,Y,EnergiewendeDeuschland
+photo_telegram_59877.jpg,telegram,https://t.me/EnergiewendeDeuschland/156,https://t.me/EnergiewendeDeuschland/156,T,R,N,Energy prices,,Y,EnergiewendeDeuschland
+photo_telegram_59897.jpg,telegram,https://t.me/EnergiewendeDeuschland/135,https://t.me/EnergiewendeDeuschland/135,T,R,N,energy,,Y,EnergiewendeDeuschland
+photo_telegram_59905.jpg,telegram,https://t.me/EnergiewendeDeuschland/146,https://t.me/EnergiewendeDeuschland/146,T,R,N,energy,,Y,EnergiewendeDeuschland
+photo_telegram_59921.jpg,telegram,https://t.me/EnergiewendeDeuschland/125,https://t.me/EnergiewendeDeuschland/125,T,R,N,energy,,Y,EnergiewendeDeuschland
+photo_telegram_59922.jpg,telegram,https://t.me/EnergiewendeDeuschland/125,https://t.me/EnergiewendeDeuschland/125,T,R,N,emissions/climate,,Y,EnergiewendeDeuschland
+photo_telegram_59950.jpg,telegram,https://t.me/EnergiewendeDeuschland/66,https://t.me/EnergiewendeDeuschland/66,T,R,N,energy resources,comment should not be here,Y,EnergiewendeDeuschland
+photo_telegram_59964.jpg,telegram,https://t.me/EnergiewendeDeuschland/76,https://t.me/EnergiewendeDeuschland/76,T,R,N,energy,comment should not be here,Y,EnergiewendeDeuschland
+photo_telegram_59983.jpg,telegram,https://t.me/EnergiewendeDeuschland/46,https://t.me/EnergiewendeDeuschland/46,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_59986.jpg,telegram,https://t.me/EnergiewendeDeuschland/46,https://t.me/EnergiewendeDeuschland/46,T,R,N,energy resources,comment should not be here,Y,EnergiewendeDeuschland
+photo_telegram_60004.jpg,telegram,https://t.me/EnergiewendeDeuschland/26,https://t.me/EnergiewendeDeuschland/26,T,R,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_60025.jpg,telegram,https://t.me/EnergiewendeDeuschland/4,https://t.me/EnergiewendeDeuschland/4,T,M,N,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_60032.jpg,telegram,https://t.me/EnergiewendeDeuschland/15,https://t.me/EnergiewendeDeuschland/15,T,M,Y,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_60034.jpg,telegram,https://t.me/EnergiewendeDeuschland/15,https://t.me/EnergiewendeDeuschland/15,T,R,Y,energy resources,,Y,EnergiewendeDeuschland
+photo_telegram_60038.jpg,telegram,https://t.me/EnergiewendeDeuschland/15,https://t.me/EnergiewendeDeuschland/15,T,M,Y,energy resources,,N,EnergiewendeDeuschland
+photo_telegram_60112.jpg,telegram,https://t.me/KlimaWetterSammlung/646,https://t.me/KlimaWetterSammlung/646,T,M,N,climate,comment should not be here,N,KlimaWetterSammlung
+photo_telegram_60150.jpg,telegram,https://t.me/KlimaWetterSammlung/453,https://t.me/KlimaWetterSammlung/453,T,M,Y,climate,,N,KlimaWetterSammlung
+photo_telegram_60154.jpg,telegram,https://t.me/KlimaWetterSammlung/435,https://t.me/KlimaWetterSammlung/435,T,M,Y,climate,,Y,KlimaWetterSammlung
+photo_telegram_60162.jpg,telegram,https://t.me/KlimaWetterSammlung/375,https://t.me/KlimaWetterSammlung/375,T,M,Y,climate,,N,KlimaWetterSammlung
+photo_telegram_60168.jpg,telegram,https://t.me/KlimaWetterSammlung/363,https://t.me/KlimaWetterSammlung/363,T,M,Y,climate,,N,KlimaWetterSammlung
+photo_telegram_60176.jpg,telegram,https://t.me/KlimaWetterSammlung/313,https://t.me/KlimaWetterSammlung/313,T,M,Y,climate,,N,KlimaWetterSammlung
+photo_telegram_60214.jpg,telegram,https://t.me/KlimaWetterSammlung/196,https://t.me/KlimaWetterSammlung/196,T,M,Y,climate,,Y,KlimaWetterSammlung
+photo_telegram_60260.jpg,telegram,https://t.me/klimaschutzundpolitik/16,https://t.me/klimaschutzundpolitik/16,T,R,Y,climate,,Y,klimaschutzundpolitik
+photo_telegram_60273.jpg,telegram,https://t.me/klimaschutzundpolitik/152,https://t.me/klimaschutzundpolitik/152,T,R,N,climate,,Y,klimaschutzundpolitik
+photo_telegram_60309.jpg,telegram,https://t.me/klimaschutzundpolitik/434,https://t.me/klimaschutzundpolitik/434,T,R,N,climate,,Y,klimaschutzundpolitik
+photo_telegram_60355.jpg,telegram,https://t.me/klimaschutzundpolitik/718,https://t.me/klimaschutzundpolitik/718,T,R,Y,cars,,N,klimaschutzundpolitik
+photo_telegram_61862.jpg,telegram,https://t.me/Migranten_Crime/40142,https://t.me/Migranten_Crime/40142,T,R,Y,immigration/crime,,N,Migranten_Crime
+photo_telegram_62218.jpg,telegram,https://t.me/Migranten_Crime/46458,https://t.me/Migranten_Crime/46458,T,R,Y,immigration/crime,,N,Migranten_Crime
+photo_telegram_62267.jpg,telegram,https://t.me/Migranten_Crime/46996,https://t.me/Migranten_Crime/46996,T,R,Y,immigration,,Y,Migranten_Crime
+photo_telegram_62504.jpg,telegram,https://t.me/Migranten_Crime/47794,https://t.me/Migranten_Crime/47794,T,R,N,immigration,,N,Migranten_Crime
+photo_telegram_62798.jpg,telegram,https://t.me/Migranten_Crime/52380,https://t.me/Migranten_Crime/52380,T,R,Y,immigration/crime,,N,Migranten_Crime
+photo_telegram_62825.jpg,telegram,https://t.me/Migranten_Crime/52785,https://t.me/Migranten_Crime/52785,T,R,Y,politics,,N,Migranten_Crime
+photo_telegram_63046.jpg,telegram,https://t.me/Migranten_Crime/55966,https://t.me/Migranten_Crime/55966,T,R,Y,immigration/crime,,Y,Migranten_Crime
+photo_telegram_63061.jpg,telegram,https://t.me/Migranten_Crime/56090,https://t.me/Migranten_Crime/56090,T,R,Y,finance,,Y,Migranten_Crime
+photo_telegram_63577.jpg,telegram,https://t.me/Migranten_Crime/62227,https://t.me/Migranten_Crime/62227,T,M,Y,politics,,N,Migranten_Crime
+photo_telegram_63667.jpg,telegram,https://t.me/Migranten_Crime/63466,https://t.me/Migranten_Crime/63466,T,R,Y,health,,Y,Migranten_Crime
+photo_telegram_64024.jpg,telegram,https://t.me/Migranten_Crime/66765,https://t.me/Migranten_Crime/66765,T,R,Y,immigration/crime,,N,Migranten_Crime
+photo_telegram_64136.jpg,telegram,https://t.me/Migranten_Crime/3763,https://t.me/Migranten_Crime/3763,T,R,Y,immigration,,Y,Migranten_Crime
+photo_telegram_64160.jpg,telegram,https://t.me/Migranten_Crime/4458,https://t.me/Migranten_Crime/4458,T,R,Y,immigration,,Y,Migranten_Crime
+photo_telegram_64646.jpg,telegram,https://t.me/Migranten_Crime/71309,https://t.me/Migranten_Crime/71309,T,R,Y,immigration/crime,,N,Migranten_Crime
+photo_telegram_64665.jpg,telegram,https://t.me/Migranten_Crime/71421,https://t.me/Migranten_Crime/71421,T,R,Y,immigration,,Y,Migranten_Crime
+photo_telegram_65466.jpg,telegram,https://t.me/Migranten_Crime/76001,https://t.me/Migranten_Crime/76001,T,M,Y,industry,,Y,Migranten_Crime
+photo_telegram_65605.jpg,telegram,https://t.me/Migranten_Crime/76770,https://t.me/Migranten_Crime/76770,T,R,N,politics,,N,Migranten_Crime
+photo_telegram_65694.jpg,telegram,https://t.me/Migranten_Crime/77110,https://t.me/Migranten_Crime/77110,T,R,Y,politics,,N,Migranten_Crime
+photo_telegram_65866.jpg,telegram,https://t.me/Migranten_Crime/5368,https://t.me/Migranten_Crime/5368,T,R,Y,immigration,,N,Migranten_Crime
+photo_telegram_66633.jpg,telegram,https://t.me/co2istleben/32,https://t.me/co2istleben/32,T,M,Y,climate,,N,co2istleben
