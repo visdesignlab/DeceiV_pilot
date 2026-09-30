@@ -10,3 +10,31 @@ The notebook was uploaded after execution. Hence, the results we have achieved a
 Possibly not all required and also maybe redundant libraries in the first cell to be automatically installed.
 Personal data has been removed before uploading the results, to properly execute the cells, require personal data has to be added (e.g., `YOUR_HUGGING_FACE_TOKEN`, `ROOT_DIR`, `CSV_PATH`). 
 Originally we also sorted into the different platforms at first and performed image deduplication via hashes. However, since we do not provide the original images, we now assume that the images have been already sorted by their platform and contain the necessary data.
+
+
+# Data Mapping:
+### `all_platforms_image_manifest.csv`
+| Column Name | Description |
+| :--- | :--- |
+|  `platform` | The platform the media appears on |
+|  `row_index` | Local enumeration from all posts/messages |
+|  `author` | Author or channel it was posted in |
+|  `title` | Title of the post (Reddit only) |
+|  `original_image_url` | URL directly to the image file |
+|  `exact_post_url` | URL to the original post |
+|  `channel` | Channel, subreddit, account, or feed posted on |
+
+### `images_classified_results.csv`
+| Column Name | Description |
+| :--- | :--- |
+|  `filename` | Local filename of the downloaded image |
+|  `platform` | The platform the media appears on |
+|  `original_image_url` | URL directly to the image file |
+|  `exact_post_url` | URL to the original post |
+|  `vis or not` | Visualization filter flag: **`T`** (is a visualization) or **`F`** (general image) |
+|  `real or mis` | Authenticity classification: **`R`** (real vis) or **`M`** (deceptive / misinformation) |
+|  `opinionated` | Opinion flag: **`Y`** (yes, opinionated) or **`N`** (no) |
+|  `manual topic` | Manually assigned category or topic |
+|  `notes` | Qualitative notes for classification |
+|  `IsFromReputableSource` | Source credibility flag: **`Y`** (yes) or **`N`** (no) |
+|  `channel` | Channel, subreddit, account, or feed posted on |
