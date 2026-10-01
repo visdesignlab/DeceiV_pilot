@@ -38,3 +38,13 @@ Originally we also sorted into the different platforms at first and performed im
 |  `notes` | Qualitative notes for classification |
 |  `IsFromReputableSource` | Source credibility flag: **`Y`** (yes) or **`N`** (no) |
 |  `channel` | Channel, subreddit, account, or feed posted on |
+
+The file `post_text_language_results.csv` contains the language breakdown results by the model, while `post_text_language_results_final.csv` contains the manually verified breakdown that is being reported.
+
+# Results:
+### Annotation results:
+![img.png](img.png)
+### Annotation channel/topic breakdown:
+![img_3.png](img_3.png)
+### Complete file channel breakdown:
+![img_4.png](img_4.png)
